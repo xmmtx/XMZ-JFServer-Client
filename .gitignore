@@ -1,4 +1,4 @@
 # 忽略 Minecraft 本体文件
 .minecraft/versions/**/*.jar
 # 忽略 PCL2 启动器的日志文件
-PCL/Pictures/*.txt
+PCL/*.txt
