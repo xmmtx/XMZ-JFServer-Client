@@ -1,0 +1,174 @@
+[22:01:11.988] [Start] 程序版本：Release 2.8.13 (349)
+[22:01:11.992] [Start] 识别码：058D-BA93-4E1F-6464
+[22:01:11.992] [Start] 程序路径：D:\项目\XMZ-JFServer-Client\Plain Craft Launcher 2.exe
+[22:01:11.992] [Start] 系统编码：gb2312 (936, GBK=True)
+[22:01:11.993] [Start] 管理员权限：False
+[22:01:12.004] [Start] 第一阶段加载用时：297 ms
+[22:01:12.140] [Loader] 加载器 Minecraft Folder List 状态改变：Loading
+[22:01:12.141] [Start] 第二阶段加载用时：125 ms
+[22:01:12.147] [Loader] 加载器 Minecraft Folder List 状态改变：Finished
+[22:01:12.370] [System] 窗口已置顶，位置：(296.666666666667, 168), 900 x 550
+[22:01:12.377] [Animation] 动画线程开始
+[22:01:12.378] [Start] 第三阶段加载用时：94 ms
+[22:01:12.380] [Start] 加载 DLL：Json
+[22:01:12.380] [System] 获取资源：Json
+[22:01:12.399] [Launch] Minecraft 文件夹：D:\项目\XMZ-JFServer-Client\.minecraft\
+[22:01:12.480] [Java] 缓存中有 12 个可用的 Java：
+[22:01:12.481] [Java]  - JRE 8 (8.0.51)：C:\Users\Lenovo\AppData\Roaming\Badlion Client\Data\jre1.8.0_51\bin\
+[22:01:12.481] [Java]  - JRE 8 (8.0.60)：D:\MCLDownload\ext\jre-v64-220420\jre8\bin\
+[22:01:12.481] [Java]  - JRE 8 (8.0.202)：C:\Users\Lenovo\AppData\Roaming\Badlion Client\Data\jre1.8.0_202\bin\
+[22:01:12.481] [Java]  - JRE 8 (8.0.291)：C:\Program Files\Java\jdk1.8.0_291\jre\bin\
+[22:01:12.481] [Java]  - JRE 8 (8.0.441)：C:\Program Files\Java\jre1.8.0_441\bin\
+[22:01:12.481] [Java]  - JDK 17 (17.0.12)：C:\Program Files\Java\jdk-17\bin\
+[22:01:12.481] [Java]  - JDK 17 (17.0.8)：C:\Users\Lenovo\AppData\Roaming\Badlion Client\Data\jdk-17.0.8\bin\
+[22:01:12.481] [Java]  - JDK 17 (17.0.2)：D:\MCLDownload\ext\jre-v64-220420\jdk17\bin\
+[22:01:12.481] [Java]  - JDK 8 (8.0.291)：C:\Program Files\Java\jdk1.8.0_291\bin\
+[22:01:12.481] [Java]  - JDK 21 (21.0.2)：C:\Users\Lenovo\AppData\Roaming\Badlion Client\Data\jdk-21.0.2\bin\
+[22:01:12.481] [Java]  - JDK 22 (22.0.1)：C:\Program Files\Java\jdk-22\bin\
+[22:01:12.481] [Java]  - JDK 20 (20.0.2)：C:\Program Files\Java\jdk-20\bin\
+[22:01:12.576] [Page] 实例化：清空自定义主页 UI，来源为空
+[22:01:12.578] [Minecraft] 启动按钮：Minecraft 版本：D:\项目\XMZ-JFServer-Client\.minecraft\versions\季落秋风客户端-v1.0.0\
+[22:01:12.693] [Loader] 加载器 DlClientList Mojang 状态改变：Loading
+[22:01:12.699] [Loader] 加载器 PCL 服务 状态改变：Loading
+[22:01:12.699] [Server] 正在连接到 PCL 服务器
+[22:01:12.706] [Net] 获取网络结果：https://launchermeta.mojang.com/mc/game/version_manifest.json，超时 10000ms，要求 json
+[22:01:12.717] [Net] 获取网络结果：https://pcl2-server-1253424809.file.myqcloud.com/notice.cfg?sign=1739196073-3f93da27-0-9d1a9a591e4e724cc938eaa92203be84，超时 10000ms
+[22:01:12.752] [System] DPI：144，系统版本：Microsoft Windows NT 10.0.22631.0，PCL 位置：D:\项目\XMZ-JFServer-Client\Plain Craft Launcher 2.exe
+[22:01:12.852] [Server] 服务器公告：159|348|349|5，无需更新
+[22:01:12.860] [Loader] 加载器 PCL 服务 状态改变：Finished
+[22:01:13.230] [Loader] 加载器 DlClientList Mojang 状态改变：Finished
+[22:01:15.772] [Control] 按下单选按钮：下载
+[22:01:15.847] [Loader] 加载器 DlClientList Main 状态改变：Loading
+[22:01:15.855] [Loader] 加载器 DlClientList Bmclapi 状态改变：Loading
+[22:01:15.855] [Control] 切换主要页面：Download, -1
+[22:01:15.857] [Net] 获取网络结果：https://bmclapi2.bangbang93.com/mc/game/version_manifest.json，超时 10000ms，要求 json
+[22:01:15.858] [Loader] 加载器 DlClientList Mojang 状态改变：Waiting
+[22:01:15.872] [Loader] 加载器 DlOptiFineList Main 状态改变：Loading
+[22:01:15.874] [Loader] 加载器 DlLiteLoaderList Main 状态改变：Loading
+[22:01:15.876] [Loader] 加载器 DlFabricList Main 状态改变：Loading
+[22:01:15.878] [Loader] 加载器 DlNeoForgeList Main 状态改变：Loading
+[22:01:15.879] [Loader] 加载器 DlLiteLoaderList Bmclapi 状态改变：Loading
+[22:01:15.880] [Loader] 加载器 DlOptiFineList Bmclapi 状态改变：Loading
+[22:01:15.882] [Net] 获取网络结果：https://bmclapi2.bangbang93.com/optifine/versionList，超时 10000ms，要求 json
+[22:01:15.882] [Net] 获取网络结果：https://bmclapi2.bangbang93.com/maven/com/mumfrey/liteloader/versions.json，超时 10000ms，要求 json
+[22:01:15.883] [Loader] 加载器 DlFabricList Bmclapi 状态改变：Loading
+[22:01:15.884] [Net] 获取网络结果：https://bmclapi2.bangbang93.com/fabric-meta/v2/versions，超时 10000ms，要求 json
+[22:01:15.884] [Loader] 加载器 DlNeoForgeList Bmclapi 状态改变：Loading
+[22:01:15.889] [Loader] 加载器 源码获取 176# 状态改变：Loading
+[22:01:15.893] [Download] 刷新 Forge 推荐版本缓存开始
+[22:01:15.893] [Loader] 加载器 源码获取 180# 状态改变：Loading
+[22:01:15.939] [Download] 2001866021_175 197#：开始，起始点 0，https://bmclapi2.bangbang93.com/neoforge/meta/api/maven/details/releases/net/neoforged/neoforge
+[22:01:15.978] [Loader] 加载器 DlOptiFineList Bmclapi 状态改变：Finished
+[22:01:15.984] [Loader] 加载器 DlOptiFineList Main 状态改变：Finished
+[22:01:16.010] [Download] 2001866021_175 197#：文件大小 37708（36.8 K）
+[22:01:16.031] [Download] -1798645995_179 203#：开始，起始点 0，https://bmclapi2.bangbang93.com/forge/promos
+[22:01:16.031] [Download] 2001866021_175：已完成，剩余文件 1
+[22:01:16.032] [Loader] 加载器 源码获取 176# 状态改变：Finished
+[22:01:16.046] [Loader] 加载器 DlFabricList Bmclapi 状态改变：Finished
+[22:01:16.046] [Loader] 加载器 源码获取 206# 状态改变：Loading
+[22:01:16.061] [Loader] 加载器 DlFabricList Main 状态改变：Finished
+[22:01:16.069] [Download] -1798645995_179 203#：文件大小 52563（51.3 K）
+[22:01:16.077] [Download] -1798645995_179：已完成，剩余文件 1
+[22:01:16.077] [Loader] 加载器 源码获取 180# 状态改变：Finished
+[22:01:16.096] [Download] 刷新 Forge 推荐版本缓存成功
+[22:01:16.170] [Download] -1864783943_205 213#：开始，起始点 0，https://bmclapi2.bangbang93.com/neoforge/meta/api/maven/details/releases/net/neoforged/forge
+[22:01:16.196] [Download] -1864783943_205 213#：文件大小 3509（3.43 K）
+[22:01:16.197] [Download] -1864783943_205：已完成，剩余文件 0
+[22:01:16.197] [Loader] 加载器 源码获取 206# 状态改变：Finished
+[22:01:16.207] [Loader] 加载器 DlNeoForgeList Bmclapi 状态改变：Finished
+[22:01:16.216] [Loader] 加载器 DlNeoForgeList Main 状态改变：Finished
+[22:01:17.652] [Control] 按下单选按钮：启动
+[22:01:17.653] [Control] 切换主要页面：Launch, -1
+[22:01:18.423] [Loader] 加载器 DlLiteLoaderList Bmclapi 状态改变：Finished
+[22:01:18.435] [Loader] 加载器 DlLiteLoaderList Main 状态改变：Finished
+[22:01:18.918] [Loader] 加载器 DlClientList Bmclapi 状态改变：Finished
+[22:01:19.023] [Loader] 加载器 DlClientList Main 状态改变：Finished
+[22:01:19.165] [Control] 按下按钮：版本选择
+[22:01:19.171] [Control] 切换主要页面：VersionSelect, 0
+[22:01:19.276] [Minecraft] 有效的 Minecraft 文件夹：当前文件夹 > D:\项目\XMZ-JFServer-Client\.minecraft\
+[22:01:19.277] [Minecraft] 有效的 Minecraft 文件夹：坏狮子 > C:\Users\Lenovo\AppData\Roaming\.minecraft\
+[22:01:19.283] [Loader] 加载器 Minecraft Version List 状态改变：Loading
+[22:01:19.299] [Setup] 当前选择的 Minecraft 版本：季落秋风客户端-v1.0.0
+[22:01:19.299] [Minecraft] 选择该文件夹储存的 Minecraft 版本：D:\项目\XMZ-JFServer-Client\.minecraft\versions\季落秋风客户端-v1.0.0\
+[22:01:19.348] [Loader] 加载器 Minecraft Version List 状态改变：Finished
+[22:01:21.634] [Control] 按下图标按钮
+[22:01:21.656] [Control] 切换主要页面：VersionSetup, 0
+[22:01:25.830] [Animation] 两个动画帧间隔 718 ms
+[22:01:27.958] [UI] 选择单个文件返回：D:\项目\XMZ-JFServer-Client\logo.png
+[22:01:28.007] [Loader] 加载器 Minecraft Version List 状态改变：Loading
+[22:01:28.008] [Minecraft] 文件夹列表变更，重载所有版本
+[22:01:28.022] [Animation] 两个动画帧间隔 438 ms
+[22:01:28.034] [Minecraft] 选择该文件夹储存的 Minecraft 版本：D:\项目\XMZ-JFServer-Client\.minecraft\versions\季落秋风客户端-v1.0.0\
+[22:01:28.068] [Loader] 加载器 Minecraft Version List 状态改变：Finished
+[22:01:39.222] [Control] 按下单选列表项：设置
+[22:01:39.351] [Setup] 版本隔离使用全局设置：季落秋风客户端-v1.0.0
+[22:01:42.833] [Control] 按下单选列表项：Mod 管理
+[22:01:42.931] [Loader] 加载器 Mod List Loader 状态改变：Loading
+[22:01:42.932] [System] 已刷新 Mod 列表
+[22:01:42.940] [System] 欲读取的文件不存在，已返回空内容：C:\Users\Lenovo\AppData\Local\Temp\PCL\Cache\LocalMod.json
+[22:01:42.941] [Mod] 共有 0 个 Mod，其中 0 个需要联网获取信息，0 个需要更新信息
+[22:01:42.967] [Loader] 加载器 Mod List Loader 状态改变：Finished
+[22:01:43.822] [Control] 按下单选列表项：设置
+[22:01:49.872] [Control] 展开卡片：高级启动选项
+[22:01:52.611] [Control] 按下图标按钮：BtnTitleInner
+[22:01:52.613] [Control] 切换主要页面：VersionSelect, -1
+[22:01:59.252] [Control] 按下图标按钮：BtnTitleInner
+[22:01:59.252] [Control] 切换主要页面：Launch, -1
+[22:02:01.812] [Control] 按下单选按钮：设置
+[22:02:01.855] [Control] 切换主要页面：Setup, -1
+[22:02:01.945] [Loader] 加载器 Loader Skin Legacy 状态改变：Loading
+[22:02:01.948] [Net] 获取网络结果：https://api.mojang.com/users/profiles/minecraft/xiaoma_233，超时 10000ms，要求 json
+[22:02:02.893] [Control] 按下单选列表项：个性化
+[22:02:02.968] [Net] 获取网络结果：https://api.mojang.com/users/profiles/minecraft/xiaoma_233，超时 30000ms，要求 json
+[22:02:03.251] 从官网获取正版 Uuid 失败（xiaoma_233）：获取结果失败（7，远程服务器返回错误: (404) 未找到。，https://api.mojang.com/users/profiles/minecraft/xiaoma_233）
+→ 远程服务器返回错误: (404) 未找到。
+   在 PCL.ModNet.NetGetCodeByRequestRetry(String Url, Encoding Encode, String Accept, Boolean IsJson, String BackupUrl, Boolean UseBrowserUserAgent)
+   在 PCL.ModLaunch.McLoginMojangUuid(String Name, Boolean ThrowOnNotFound)
+   在 System.Net.HttpWebRequest.GetResponse()
+   在 PCL.ModNet.NetGetCodeByRequestOnce(String Url, Encoding Encode, Int32 Timeout, Boolean IsJson, String Accept, Boolean UseBrowserUserAgent)
+错误类型：System.Net.WebException
+[22:02:03.252] 获取离线登录使用的正版皮肤失败（xiaoma_233）：从官网获取正版 Uuid 失败
+→ 获取结果失败（7，远程服务器返回错误: (404) 未找到。，https://api.mojang.com/users/profiles/minecraft/xiaoma_233）
+→ 远程服务器返回错误: (404) 未找到。
+   在 PCL.ModLaunch.McLoginMojangUuid(String Name, Boolean ThrowOnNotFound)
+   在 PCL.PageLaunchLeft.SkinLegacyLoad(LoaderTask`2 Data)
+   在 PCL.ModNet.NetGetCodeByRequestRetry(String Url, Encoding Encode, String Accept, Boolean IsJson, String BackupUrl, Boolean UseBrowserUserAgent)
+   在 PCL.ModLaunch.McLoginMojangUuid(String Name, Boolean ThrowOnNotFound)
+   在 System.Net.HttpWebRequest.GetResponse()
+   在 PCL.ModNet.NetGetCodeByRequestOnce(String Url, Encoding Encode, Int32 Timeout, Boolean IsJson, String Accept, Boolean UseBrowserUserAgent)
+错误类型：System.Net.WebException
+[22:02:03.252] [Loader] 加载器 Loader Skin Legacy 状态改变：Finished
+[22:02:23.982] [Control] 按下按钮：刷新背景图片
+[22:02:24.029] [UI] 弹出提示：未检测到可用背景图片！
+[22:02:27.112] [Control] 按下复选框（False）：使用彩色背景
+[22:02:27.743] [Control] 按下按钮：打开文件夹
+[22:02:27.743] [System] 执行外部命令：explorer.exe "D:\项目\XMZ-JFServer-Client\PCL\Pictures"
+[22:02:38.802] [Control] 按下复选框（True）：使用彩色背景
+[22:02:39.712] [Control] 按下复选框（False）：使用彩色背景
+[22:02:40.023] [Control] 按下复选框（True）：使用彩色背景
+[22:02:41.662] [Control] 按下单选按钮：启动
+[22:02:41.663] [Control] 切换主要页面：Launch, -1
+[22:02:43.693] [Control] 按下单选按钮：设置
+[22:02:43.693] [Control] 切换主要页面：Setup, -1
+[22:02:45.793] [Control] 按下单选按钮：更多
+[22:02:45.805] [Loader] 加载器 Help Page 状态改变：Loading
+[22:02:45.805] [Control] 切换主要页面：Other, -1
+[22:02:45.810] [System] 获取资源：Help
+[22:02:45.896] [Help] 已解压内置帮助文件，目前状态：True
+[22:02:45.897] [Help] 已扫描 PCL 文件夹下的帮助文件，目前总计 0 条
+[22:02:45.898] [Help] 已扫描缓存文件夹下的帮助文件，目前总计 36 条
+[22:02:45.939] [Loader] 加载器 Help Page 状态改变：Finished
+[22:02:47.142] [Control] 按下单选列表项：关于与鸣谢
+[22:02:48.541] [Control] 按下单选列表项：百宝箱
+[22:02:48.933] [Control] 按下单选列表项：帮助
+[22:02:49.553] [Control] 按下单选按钮：下载
+[22:02:49.553] [Control] 切换主要页面：Download, -1
+[22:02:50.352] [Control] 按下单选按钮：设置
+[22:02:50.353] [Control] 切换主要页面：Setup, -1
+[22:02:51.712] [Control] 按下按钮：支持 PCL 开发！
+[22:02:51.713] [System] 正在打开网页：https://afdian.com/a/LTCat
+[22:03:41.543] [Control] 按下单选按钮：启动
+[22:03:41.544] [Control] 切换主要页面：Launch, -1
+[22:03:42.633] [Control] 按下图标按钮：BtnTitleClose
+[22:03:42.635] [System] 收到关闭指令
+[22:03:42.752] [System] 程序已退出，返回值：Success

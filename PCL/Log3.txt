@@ -1,0 +1,191 @@
+[22:00:43.682] [Start] 程序版本：Release 2.8.13 (349)
+[22:00:43.686] [Start] 识别码：058D-BA93-4E1F-6464
+[22:00:43.686] [Start] 程序路径：D:\项目\XMZ-JFServer-Client\Plain Craft Launcher 2.exe
+[22:00:43.687] [Start] 系统编码：gb2312 (936, GBK=True)
+[22:00:43.687] [Start] 管理员权限：False
+[22:00:43.729] [Start] 第一阶段加载用时：375 ms
+[22:00:43.850] [Start] 版本号从 332 升高到 349
+[22:00:43.851] [Start] 最高版本号从 332 升高到 349
+[22:00:43.855] [Start] 已从老版本迁移微软登录结果
+[22:00:43.948] [Loader] 加载器 Minecraft Folder List 状态改变：Loading
+[22:00:43.949] [Start] 第二阶段加载用时：203 ms
+[22:00:43.958] [Loader] 加载器 Minecraft Folder List 状态改变：Finished
+[22:00:44.310] [System] 窗口已置顶，位置：(296.666666666667, 168), 900 x 550
+[22:00:44.317] [Animation] 动画线程开始
+[22:00:44.318] [Start] 第三阶段加载用时：125 ms
+[22:00:44.320] [Start] 加载 DLL：Json
+[22:00:44.320] [System] 获取资源：Json
+[22:00:44.329] [Java] 要求 Java 列表缓存更新
+[22:00:44.330] [Java] 初始化未找到可用的 Java，将自动触发搜索
+[22:00:44.332] [Loader] 加载器 查找 Java 状态改变：Loading
+[22:00:44.347] [Launch] 没有已储存的 Minecraft 文件夹
+[22:00:44.347] [Loader] 加载器 Minecraft Folder List 状态改变：Loading
+[22:00:44.348] [Java] 开始部分遍历查找：C:\
+[22:00:44.349] [Loader] 加载器 Minecraft Folder List 状态改变：Finished
+[22:00:44.359] [Setup] 当前选择的 Minecraft 文件夹：D:\项目\XMZ-JFServer-Client\.minecraft\
+[22:00:44.360] [Launch] Minecraft 文件夹：D:\项目\XMZ-JFServer-Client\.minecraft\
+[22:00:44.360] [Launch] 当前选择的 Minecraft 版本无效：null
+[22:00:44.366] [Loader] 加载器 Minecraft Version List 状态改变：Loading
+[22:00:44.371] [Minecraft] 文件夹列表变更，重载所有版本
+[22:00:44.407] [Loader] 加载器 Loader Skin Ms 状态改变：Loading
+[22:00:44.419] [Net] 获取网络结果：https://sessionserver.mojang.com/session/minecraft/profile/3dee4f0a3ed44974a726f82eea53f962，超时 10000ms
+[22:00:44.508] [Page] 实例化：清空自定义主页 UI，来源为空
+[22:00:44.529] [Control] 普通弹窗：PCL 已更新至 Release 2.8.13
+· Mod 管理页面添加下载 Mod、安装 Mod 选项
+· Mod 详情页面支持按加载器、游戏版本进行分类和筛选
+· 支持下载原版服务端
+· 使用新的正版登录方式，以提高安全性
+· 下载 Mod 时会使用 MCIM 国内镜像源
+· Mod 管理页面允许筛选可更新/启用/禁用的 Mod
+· 支持安装同时包含 modpack 文件和启动器的懒人包
+· 本地 Mod 的标题支持选择显示 Mod 原始文件名
+· 打开 PCL 时会自动安装同目录下的 modpack.zip
+· 爱发电域名迁移至 afdian.com
+· 109 项小调整与修改，修复了 116 个 Bug，详见完整更新日志
+[22:00:44.554] [Loader] 加载器 DlClientList Mojang 状态改变：Loading
+[22:00:44.556] [Loader] 加载器 PCL 服务 状态改变：Loading
+[22:00:44.558] [Server] 正在连接到 PCL 服务器
+[22:00:44.560] [Net] 获取网络结果：https://launchermeta.mojang.com/mc/game/version_manifest.json，超时 10000ms，要求 json
+[22:00:44.576] [Net] 获取网络结果：https://pcl2-server-1253424809.file.myqcloud.com/notice.cfg?sign=1739196045-29ecfc2c-0-f0c8691ade0e0074ac7e7574afc64d38，超时 10000ms
+[22:00:44.578] [Java] 遍历查找 Java 时遭遇无权限的文件夹：C:\ProgramData\Microsoft\Network\Downloader
+[22:00:44.585] [Java] 遍历查找 Java 时遭遇无权限的文件夹：C:\ProgramData\Packages
+[22:00:44.695] [Setup] 当前选择的 Minecraft 版本：季落秋风客户端-v1.0.0
+[22:00:44.695] [Server] 服务器公告：159|348|349|5，本地公告编号：154，需更新
+[22:00:44.696] [Launch] 自动选择 Minecraft 版本：D:\项目\XMZ-JFServer-Client\.minecraft\versions\季落秋风客户端-v1.0.0\
+[22:00:44.696] [Loader] 加载器 Minecraft Version List 状态改变：Finished
+[22:00:44.696] [Minecraft] 启动按钮：正在加载 Minecraft 版本
+[22:00:44.698] [Launch] 自动选择 Minecraft 版本：D:\项目\XMZ-JFServer-Client\.minecraft\versions\季落秋风客户端-v1.0.0\
+[22:00:44.700] [Minecraft] 启动按钮：Minecraft 版本：D:\项目\XMZ-JFServer-Client\.minecraft\versions\季落秋风客户端-v1.0.0\
+[22:00:44.710] [Loader] 加载器 源码获取 88# 状态改变：Loading
+[22:00:44.711] [Loader] 加载器 登录 状态改变：Loading
+[22:00:44.715] [System] DPI：144，系统版本：Microsoft Windows NT 10.0.22631.0，PCL 位置：D:\项目\XMZ-JFServer-Client\Plain Craft Launcher 2.exe
+[22:00:44.718] [Launch] 登录加载已开始
+[22:00:44.720] [Loader] 加载器 Loader Login Ms 状态改变：Loading
+[22:00:44.729] [Launch] 登录方式：正版（xiaoma_233）
+[22:00:44.732] [Launch] 开始微软登录步骤 1/6（刷新登录）
+[22:00:44.744] [Net] 发起网络请求（POST，https://login.live.com/oauth20_token.srf），最大超时 30000
+[22:00:44.803] [Download] 1805801698_87 99#：开始，起始点 0，https://pcl2-server-1253424809.file.myqcloud.com/minecraft/download.json?sign=1739196045-6f6df46c-0-181fec6c04ed2358e18131e47af41018
+[22:00:44.822] [Download] 1805801698_87 99#：文件大小 3906（3.81 K）
+[22:00:44.836] [Download] 1805801698_87：已完成，剩余文件 0
+[22:00:44.836] [Loader] 加载器 源码获取 88# 状态改变：Finished
+[22:00:44.842] [Net] 获取网络结果：https://pcl2-server-1253424809.file.myqcloud.com/notice.json?sign=1739196045-7eee5a38-0-5e666d56c1d416f7a9395dbe00eb7bae，超时 10000ms
+[22:00:44.876] [Loader] 加载器 PCL 服务 状态改变：Finished
+[22:00:44.953] [Skin] UUID 3dee4f0a3ed44974a726f82eea53f962 对应的皮肤文件为 http://textures.minecraft.net/texture/8b81d587ec12755d7008ab70affcb3c6650bc2b6de6a303953ce767e6c708415
+[22:00:44.954] [Net] 直接下载文件：http://textures.minecraft.net/texture/8b81d587ec12755d7008ab70affcb3c6650bc2b6de6a303953ce767e6c708415
+[22:00:44.994] [Net] 发起网络请求（POST，https://login.live.com/oauth20_token.srf），最大超时 30000
+[22:00:45.433] [Java] 开始部分遍历查找：D:\
+[22:00:45.548] [Java] 开始部分遍历查找：C:\Users\Lenovo\AppData\Roaming\
+[22:00:45.621] [Java] 开始部分遍历查找：C:\Users\Lenovo\AppData\Local\
+[22:00:45.666] [Minecraft] 皮肤下载成功：C:\Users\Lenovo\AppData\Local\Temp\PCL\Cache\Skin\14788952306387091901.png
+[22:00:45.666] [Loader] 加载器 Loader Skin Ms 状态改变：Finished
+[22:00:45.676] [Skin] 载入头像成功：Loader Skin Ms
+[22:00:45.750] [Java] 开始完全遍历查找：D:\项目\XMZ-JFServer-Client\
+[22:00:45.751] [Java] 开始完全遍历查找：D:\项目\XMZ-JFServer-Client\.minecraft\
+[22:00:45.752] [Java] 位于 C:\Program Files\Common Files\Oracle\Java\javapath\ 的 Java 包含符号链接
+[22:00:45.752] [Java] 位于 C:\Program Files (x86)\Common Files\Oracle\Java\java8path\ 的 Java 包含符号链接
+[22:00:45.752] [Java] 位于 C:\Program Files\Common Files\Oracle\Java\javapath_target_15803140\ 的 Java 不含符号链接
+[22:00:45.753] [Java] 位于 C:\Program Files\Java\jdk-17\bin\ 的 Java 不含符号链接
+[22:00:45.753] [Java] 位于 C:\Program Files\Java\jdk-20\bin\ 的 Java 不含符号链接
+[22:00:45.753] [Java] 位于 C:\Program Files\Java\jdk-22\bin\ 的 Java 不含符号链接
+[22:00:45.753] [Java] 位于 C:\Program Files\Java\jdk1.8.0_291\bin\ 的 Java 不含符号链接
+[22:00:45.753] [Java] 位于 C:\Program Files\Java\jdk1.8.0_291\jre\bin\ 的 Java 不含符号链接
+[22:00:45.753] [Java] 位于 C:\Program Files\Java\jre1.8.0_441\bin\ 的 Java 不含符号链接
+[22:00:45.753] [Java] 位于 C:\Program Files (x86)\Common Files\Oracle\Java\java8path_target_15360546\ 的 Java 不含符号链接
+[22:00:45.753] [Java] 位于 C:\Users\Lenovo\AppData\Roaming\Badlion Client\Data\jdk-17.0.8\bin\ 的 Java 不含符号链接
+[22:00:45.753] [Java] 位于 C:\Users\Lenovo\AppData\Roaming\Badlion Client\Data\jdk-21.0.2\bin\ 的 Java 不含符号链接
+[22:00:45.754] [Java] 位于 C:\Users\Lenovo\AppData\Roaming\Badlion Client\Data\jre1.8.0_202\bin\ 的 Java 不含符号链接
+[22:00:45.754] [Java] 位于 C:\Users\Lenovo\AppData\Roaming\Badlion Client\Data\jre1.8.0_51\bin\ 的 Java 不含符号链接
+[22:00:45.755] [Java] 位于 D:\MCLDownload\ext\jre-v64-220420\jdk17\bin\ 的 Java 不含符号链接
+[22:00:45.755] [Java] 位于 D:\MCLDownload\ext\jre-v64-220420\jre8\bin\ 的 Java 不含符号链接
+[22:00:45.755] [Java] 位于 C:\Program Files\Common Files\Oracle\Java\javapath_target_15803140\ 的 Java 包含特殊引用
+[22:00:45.755] [Java] 位于 C:\Program Files\Java\jdk-17\bin\ 的 Java 不含特殊引用
+[22:00:45.755] [Java] 位于 C:\Program Files\Java\jdk-20\bin\ 的 Java 不含特殊引用
+[22:00:45.755] [Java] 位于 C:\Program Files\Java\jdk-22\bin\ 的 Java 不含特殊引用
+[22:00:45.755] [Java] 位于 C:\Program Files\Java\jdk1.8.0_291\bin\ 的 Java 不含特殊引用
+[22:00:45.755] [Java] 位于 C:\Program Files\Java\jdk1.8.0_291\jre\bin\ 的 Java 不含特殊引用
+[22:00:45.755] [Java] 位于 C:\Program Files\Java\jre1.8.0_441\bin\ 的 Java 不含特殊引用
+[22:00:45.755] [Java] 位于 C:\Program Files (x86)\Common Files\Oracle\Java\java8path_target_15360546\ 的 Java 包含特殊引用
+[22:00:45.755] [Java] 位于 C:\Users\Lenovo\AppData\Roaming\Badlion Client\Data\jdk-17.0.8\bin\ 的 Java 不含特殊引用
+[22:00:45.755] [Java] 位于 C:\Users\Lenovo\AppData\Roaming\Badlion Client\Data\jdk-21.0.2\bin\ 的 Java 不含特殊引用
+[22:00:45.755] [Java] 位于 C:\Users\Lenovo\AppData\Roaming\Badlion Client\Data\jre1.8.0_202\bin\ 的 Java 不含特殊引用
+[22:00:45.755] [Java] 位于 C:\Users\Lenovo\AppData\Roaming\Badlion Client\Data\jre1.8.0_51\bin\ 的 Java 不含特殊引用
+[22:00:45.755] [Java] 位于 D:\MCLDownload\ext\jre-v64-220420\jdk17\bin\ 的 Java 不含特殊引用
+[22:00:45.755] [Java] 位于 D:\MCLDownload\ext\jre-v64-220420\jre8\bin\ 的 Java 不含特殊引用
+[22:00:45.762] [Java] 开始确认列表 Java 状态，共 12 项
+[22:00:45.766] [System] 执行外部命令并等待返回结果：C:\Program Files\Java\jdk-17\bin\java.exe -version
+[22:00:45.766] [System] 执行外部命令并等待返回结果：D:\MCLDownload\ext\jre-v64-220420\jre8\bin\java.exe -version
+[22:00:45.766] [System] 执行外部命令并等待返回结果：C:\Program Files\Java\jdk1.8.0_291\bin\java.exe -version
+[22:00:45.766] [System] 执行外部命令并等待返回结果：C:\Program Files\Java\jre1.8.0_441\bin\java.exe -version
+[22:00:45.766] [System] 执行外部命令并等待返回结果：C:\Users\Lenovo\AppData\Roaming\Badlion Client\Data\jre1.8.0_202\bin\java.exe -version
+[22:00:45.767] [System] 执行外部命令并等待返回结果：C:\Users\Lenovo\AppData\Roaming\Badlion Client\Data\jdk-21.0.2\bin\java.exe -version
+[22:00:45.767] [System] 执行外部命令并等待返回结果：C:\Users\Lenovo\AppData\Roaming\Badlion Client\Data\jdk-17.0.8\bin\java.exe -version
+[22:00:45.767] [System] 执行外部命令并等待返回结果：C:\Program Files\Java\jdk-20\bin\java.exe -version
+[22:00:45.767] [System] 执行外部命令并等待返回结果：C:\Users\Lenovo\AppData\Roaming\Badlion Client\Data\jre1.8.0_51\bin\java.exe -version
+[22:00:45.767] [System] 执行外部命令并等待返回结果：D:\MCLDownload\ext\jre-v64-220420\jdk17\bin\java.exe -version
+[22:00:45.768] [System] 执行外部命令并等待返回结果：C:\Program Files\Java\jdk-22\bin\java.exe -version
+[22:00:46.277] NetRequestOnce 失败：服务器返回错误（ProtocolError，远程服务器返回错误: (400) 错误的请求。，https://login.live.com/oauth20_token.srf）
+{"error":"invalid_grant","error_description":"The provided value for the input parameter 'refresh_token' or 'assertion' is not valid. The token was issued for a different client id","correlation_id":"17bcf19e-65f4-4305-8759-4540be51b597"}
+→ 远程服务器返回错误: (400) 错误的请求。
+   在 System.Net.HttpWebRequest.GetResponse()
+   在 PCL.ModNet.NetRequestOnce(String Url, String Method, Object Data, String ContentType, Int32 Timeout, Dictionary`2 Headers, Boolean MakeLog, Boolean UseBrowserUserAgent)
+错误类型：System.Net.WebException
+[22:00:46.362] [Control] 按下按钮：确定
+[22:00:46.364] [Control] 普通弹框返回：1
+[22:00:46.670] NetRequestOnce 失败：服务器返回错误（ProtocolError，远程服务器返回错误: (400) 错误的请求。，https://login.live.com/oauth20_token.srf）
+{"error":"invalid_grant","error_description":"The provided value for the input parameter 'refresh_token' or 'assertion' is not valid. The token was issued for a different client id","correlation_id":"2c13958b-56be-4a01-831b-e23d6a83b827"}
+→ 远程服务器返回错误: (400) 错误的请求。
+   在 System.Net.HttpWebRequest.GetResponse()
+   在 PCL.ModNet.NetRequestOnce(String Url, String Method, Object Data, String ContentType, Int32 Timeout, Dictionary`2 Headers, Boolean MakeLog, Boolean UseBrowserUserAgent)
+错误类型：System.Net.WebException
+[22:00:46.685] [Launch] 开始微软登录步骤 1/6（原始登录）
+[22:00:46.686] [Net] 发起网络请求（POST，https://login.microsoftonline.com/consumers/oauth2/v2.0/devicecode），最大超时 15000
+[22:00:46.943] [Control] 普通弹窗：Minecraft 更新提示
+新版本：1.21.4
+更新时间：2024/12/3 18:12:57
+[22:00:47.375] [Launch] 网页登录地址：https://www.microsoft.com/link
+[22:00:47.929] [Java] Java 搜索完成，发现 12 个 Java
+[22:00:47.929] [Loader] 加载器 查找 Java 状态改变：Finished
+[22:00:50.362] [Control] 按下按钮：确定
+[22:00:50.363] [Control] 普通弹框返回：1
+[22:00:50.363] [Loader] 加载器 DlClientList Mojang 状态改变：Finished
+[22:00:50.475] [Control] 登录弹窗：登录 Minecraft
+登录网页将自动开启，请在网页中输入 H4W46WKZ（已自动复制）。
+
+如果网络环境不佳，网页可能一直加载不出来，届时请使用 VPN 并重试。
+你也可以用其他设备打开 https://www.microsoft.com/link 并输入上述代码。
+[22:00:53.479] [System] 正在打开网页：https://www.microsoft.com/link
+[22:00:53.622] [UI] 弹出提示：已成功复制！
+[22:00:57.544] [Control] 按下按钮：取消
+[22:00:57.573] [Loader] 加载器 Loader Login Ms 状态改变：Aborted
+[22:00:57.588] [Loader] 加载器 登录 状态改变：Aborted
+[22:00:57.762] [System] 窗口已置顶，位置：(296.666666666667, 168), 900 x 550
+[22:00:57.773] [Animation] 两个动画帧间隔 438 ms
+[22:01:01.713] [Control] 按下图标按钮：BtnEdit
+[22:01:05.332] [Control] 按下图标按钮：BtnExit
+[22:01:07.582] [Control] 按下单选按钮：离线
+[22:01:07.677] [Loader] 加载器 Loader Skin Legacy 状态改变：Loading
+[22:01:07.681] [Net] 获取网络结果：https://api.mojang.com/users/profiles/minecraft/xiaoma_233，超时 10000ms，要求 json
+[22:01:08.752] [Control] 按下单选按钮：正版
+[22:01:08.798] [Net] 获取网络结果：https://api.mojang.com/users/profiles/minecraft/xiaoma_233，超时 30000ms，要求 json
+[22:01:09.070] 从官网获取正版 Uuid 失败（xiaoma_233）：获取结果失败（7，远程服务器返回错误: (404) 未找到。，https://api.mojang.com/users/profiles/minecraft/xiaoma_233）
+→ 远程服务器返回错误: (404) 未找到。
+   在 PCL.ModNet.NetGetCodeByRequestRetry(String Url, Encoding Encode, String Accept, Boolean IsJson, String BackupUrl, Boolean UseBrowserUserAgent)
+   在 PCL.ModLaunch.McLoginMojangUuid(String Name, Boolean ThrowOnNotFound)
+   在 System.Net.HttpWebRequest.GetResponse()
+   在 PCL.ModNet.NetGetCodeByRequestOnce(String Url, Encoding Encode, Int32 Timeout, Boolean IsJson, String Accept, Boolean UseBrowserUserAgent)
+错误类型：System.Net.WebException
+[22:01:09.073] 获取离线登录使用的正版皮肤失败（xiaoma_233）：从官网获取正版 Uuid 失败
+→ 获取结果失败（7，远程服务器返回错误: (404) 未找到。，https://api.mojang.com/users/profiles/minecraft/xiaoma_233）
+→ 远程服务器返回错误: (404) 未找到。
+   在 PCL.ModLaunch.McLoginMojangUuid(String Name, Boolean ThrowOnNotFound)
+   在 PCL.PageLaunchLeft.SkinLegacyLoad(LoaderTask`2 Data)
+   在 PCL.ModNet.NetGetCodeByRequestRetry(String Url, Encoding Encode, String Accept, Boolean IsJson, String BackupUrl, Boolean UseBrowserUserAgent)
+   在 PCL.ModLaunch.McLoginMojangUuid(String Name, Boolean ThrowOnNotFound)
+   在 System.Net.HttpWebRequest.GetResponse()
+   在 PCL.ModNet.NetGetCodeByRequestOnce(String Url, Encoding Encode, Int32 Timeout, Boolean IsJson, String Accept, Boolean UseBrowserUserAgent)
+错误类型：System.Net.WebException
+[22:01:09.073] [Loader] 加载器 Loader Skin Legacy 状态改变：Finished
+[22:01:09.080] [Skin] 载入头像成功：Loader Skin Legacy
+[22:01:09.622] [Control] 按下图标按钮：BtnTitleClose
+[22:01:09.628] [System] 收到关闭指令
+[22:01:09.750] [System] 程序已退出，返回值：Success
