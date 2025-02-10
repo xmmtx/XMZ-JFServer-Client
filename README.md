@@ -1,6 +1,8 @@
 # XMZ-JFServer-Client
 XMZ 季落秋风服务器客户端
 
+中文 | [English](./README_EN.md)
+
 ## Mod列表
 1. **Mod A** - 作者: Developer A - [下载链接](https://example.com/modA) - 许可证: MIT
 2. **Mod B** - 作者: Developer B - [下载链接](https://example.com/modB) - 许可证: GPLv3

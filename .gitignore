@@ -1,4 +1,17 @@
-# 忽略 Minecraft 本体文件
+# 忽略 Minecraft 本体文件等
 .minecraft/versions/**/*.jar
-# 忽略 PCL2 启动器的日志文件
+.minecraft/versions/**/*.xml
+.minecraft/versions/季落秋风客户端-v1.0.0/natives-windows-x86_64
+
+# 忽略 日志文件
+.minecraft/logs
 PCL/*.txt
+
+# 忽略 会自动补充的等文件
+.minecraft/assets/
+.minecraft/saves/
+.minecraft/downloads/
+.minecraft/servers.dat_old
+.minecraft/realms_persistence.json
+.minecraft/libraries/
+.minecraft/usercache.json
