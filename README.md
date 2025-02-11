@@ -3,7 +3,7 @@
   <a href="https://www.xm233.cn/JFServer"><img width="100px" alt="logo" src="https://raw.githubusercontent.com/xmmtx/XMZ-JFServer-Client/refs/heads/main/logo.png"/></a>
   <p><em>「四季映风雨，落叶归秋风。」—— hanpi</em></p>
 <div>
-  <a href="https://github.com/xmmtx/XMZ-JFServer-Client/blob/main/LICENSE">
+  <a href="./LICENSE">
     <img src="https://img.shields.io/github/license/xmmtx/XMZ-JFServer-Client" alt="License" />
   </a>
   <a href="https://www.xm233.cn/sponsor">
