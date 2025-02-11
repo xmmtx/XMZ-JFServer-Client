@@ -8,6 +8,7 @@
 PCL/*.txt
 
 # 忽略 会自动补充的等文件
+.minecraft/data/
 .minecraft/assets/
 .minecraft/saves/
 .minecraft/downloads/
