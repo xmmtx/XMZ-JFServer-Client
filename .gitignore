@@ -8,6 +8,7 @@
 PCL/*.txt
 
 # 忽略 会自动补充的等文件
+.minecraft/command_history.txt
 .minecraft/.mixin.out/
 .minecraft/global/
 .minecraft/crash-reports/
