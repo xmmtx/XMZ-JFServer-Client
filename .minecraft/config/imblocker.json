@@ -1,0 +1,17 @@
+{
+  "screenBlacklist": [
+    "com.mamiyaotaru.voxelmap.persistent.GuiPersistentMap"
+  ],
+  "screenWhitelist": [
+    "net.minecraft.class_473",
+    "net.minecraft.class_498",
+    "net.minecraft.class_442",
+    "net.minecraft.class_7744",
+    "journeymap.client.ui.waypoint.WaypointEditor",
+    "com.ldtteam.blockout.BOScreen"
+  ],
+  "inputBlacklist": [],
+  "inputWhitelist": [],
+  "enableScreenRecovering": false,
+  "recoveredScreens": []
+}
