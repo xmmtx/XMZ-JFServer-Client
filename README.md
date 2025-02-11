@@ -1,6 +1,6 @@
 # XMZ 季落秋风服务器官方客户端
 <div align="center">
-  <a href="https://www.xm233.cn/JFServer"><img width="100px" alt="logo" src="https://raw.githubusercontent.com/xmmtx/XMZ-JFServer-Client/refs/heads/main/logo.png"/></a>
+  <a href="https://www.xm233.cn/JFServer"><img width="144px" alt="logo" src="https://github.com/xmmtx/XMZ-JFServer-Client/blob/main/logo.png"/></a>
   <p><em>「四季映风雨，落叶归秋风。」—— hanpi</em></p>
 <div>
   <a href="./LICENSE">
