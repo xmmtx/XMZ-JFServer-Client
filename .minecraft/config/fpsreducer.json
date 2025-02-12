@@ -1,6 +1,6 @@
 {
   "enableFpsReducer": true,
-  "hudReferencePos": 3,
+  "hudReferencePos": 7,
   "hudPos": [
     {
       "id": 0,
@@ -82,6 +82,6 @@
   "reducingInBackground": true,
   "suppressSound": true,
   "suppressedVolume": 20,
-  "hudEnabled": false,
+  "hudEnabled": true,
   "profile": 5
 }

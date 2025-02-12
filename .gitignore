@@ -13,7 +13,9 @@ PCL/*.txt
 .minecraft/usercache.json
 .minecraft/too_many_shortcuts.json
 .minecraft/command_history.txt
+.minecraft/screenshots/
 .minecraft/libraries/
+.minecraft/itemscroller/
 .minecraft/.mixin.out/
 .minecraft/global/
 .minecraft/crash-reports/
