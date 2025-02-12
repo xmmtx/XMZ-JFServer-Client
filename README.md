@@ -1,5 +1,5 @@
 <div align="center">
-  <a href="https://www.xm233.cn/JFServer"><img width="144px" alt="logo" src="https://github.com/xmmtx/XMZ-JFServer-Client/blob/main/logo.png"/></a>
+  <a href="https://www.xm233.cn/JFServer"><img width="144px" alt="logo" src="./logo.png"/></a>
   <h1 align="center">XMZ JFServer Client</h1>
   <p>季落秋风服务器官方客户端</p>
 </div>
