@@ -8,8 +8,12 @@
 PCL/*.txt
 
 # 忽略 会自动补充的等文件
+.minecraft/servers.dat_old
+.minecraft/realms_persistence.json
+.minecraft/usercache.json
 .minecraft/too_many_shortcuts.json
 .minecraft/command_history.txt
+.minecraft/libraries/
 .minecraft/.mixin.out/
 .minecraft/global/
 .minecraft/crash-reports/
@@ -17,7 +21,3 @@ PCL/*.txt
 .minecraft/assets/
 .minecraft/saves/
 .minecraft/downloads/
-.minecraft/servers.dat_old
-.minecraft/realms_persistence.json
-.minecraft/libraries/
-.minecraft/usercache.json
