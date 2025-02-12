@@ -14,12 +14,13 @@
 </div>
 
 中文 | [English](./README_EN.md)
-
+## 简介
+本项目是Minecraft季落秋风服务器官方客户端，也是XMZ系列整合包之一。
 ## Mod列表
-<!--
+查看完整列表：https://github.com/xmmtx/XMZ-JFServer-Client/tree/main/.minecraft/mods
+#### 主要MOD
 1. **Mod A** - 作者: Developer A - [下载链接](https://example.com/modA) - 许可证: MIT
 2. **Mod B** - 作者: Developer B - [下载链接](https://example.com/modB) - 许可证: GPLv3
--->
 
 > 本模组包不包含Minecraft本体、Java。
 
