@@ -1,0 +1,76 @@
+{
+	// Maximum distance in blocks at which health bars should render
+	"maxDistance": 24,
+	// Maximum distance in blocks at which health bars should render without line of sight
+	"maxDistanceWithoutLineOfSight": 8,
+	// Whether health bars should render when the HUD is disabled with F1
+	"renderInF1": false,
+	// How far above the mob the health bars should render
+	"heightAbove": 0.6,
+	// Whether the gray background plate should be drawn
+	"drawBackground": true,
+	// Amount of extra padding space around the background plate
+	"backgroundPadding": 2,
+	// How tall the background plate should be
+	"backgroundHeight": 6,
+	// How tall the health bar should be
+	"barHeight": 4,
+	// How wide the health bar should be. If the entity has a long name, the bar will increase in size to match it.
+	"plateSize": 25,
+	// plateSize but for bosses
+	"plateSizeBoss": 50,
+	// Show mob attributes such as arthropod or undead
+	"showAttributes": true,
+	// Show armor points
+	"showArmor": true,
+	// Group armor points into diamond icons
+	"groupArmor": true,
+	// Color health bar by mob type instead of health percentage
+	"colorByType": false,
+	// Text color in hex code format
+	"textColor": "FFFFFF",
+	// Height of the text on the health bar
+	"hpTextHeight": 14,
+	// Whether the maximum health of the mob should be shown
+	"showMaxHP": true,
+	// Whether the current health of the mob should be shown
+	"showCurrentHP": true,
+	// Whether the percentage health of the mob should be shown
+	"showPercentage": true,
+	// Whether bars on passive mobs should be shown
+	"showOnPassive": true,
+	// Whether bars on hostile mobs should be shown (does not include bosses)
+	"showOnHostile": true,
+	// Whether bars on players should be shown
+	"showOnPlayers": true,
+	// Whether bars on bosses should be shown
+	"showOnBosses": true,
+	// Only show bars for mobs you are targeting
+	"showOnlyFocused": false,
+	// Show bars for mobs that are at full health
+	"showFullHealth": true,
+	// Show extra debug info on the bar when F3 is enabled
+	"enableDebugInfo": true,
+	// Show entity name
+	"showEntityName": true,
+	// Disables the rendering of the vanilla name tag
+	"disableNameTag": false,
+	// If this is enabled and the "disableNameTag" option is true, the vanilla nametag is only hidden if the mob has a Neat healthbar rendered
+	"disableNameTagIfHealthbar": true,
+	// Offsets the healtbar icons on the x axis
+	"iconOffsetX": 0.0,
+	// Offsets the healtbar icons on the y axis
+	"iconOffsetY": 0.0,
+	// This value changes the decimal format of the HP. Only change this value if you are familiar with how the decimal format works!
+	"decimalFormat": "#.##",
+	// Entity ID's that should not have bars rendered
+	"blacklist": [
+		"minecraft:shulker",
+		"minecraft:armor_stand",
+		"minecraft:cod",
+		"minecraft:salmon",
+		"minecraft:pufferfish",
+		"minecraft:tropical_fish",
+		"minecraft:tadpole"
+	]
+}
