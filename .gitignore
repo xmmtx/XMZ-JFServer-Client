@@ -1,10 +1,12 @@
 # 忽略 Minecraft 本体文件等
 .minecraft/versions/**/*.jar
 .minecraft/versions/**/*.xml
-.minecraft/versions/季落秋风客户端-v1.0.0/natives-windows-x86_64
+.minecraft/versions/**/*.dll
+.minecraft/versions/**/*.x
 
 # 忽略 日志文件
-.minecraft/logs
+.minecraft/logs/
+.minecraft/debug/
 PCL/*.txt
 
 # 忽略 会自动补充的等文件
@@ -13,7 +15,6 @@ PCL/*.txt
 .minecraft/usercache.json
 .minecraft/too_many_shortcuts.json
 .minecraft/command_history.txt
-.minecraft/debug/
 .minecraft/CustomSkinLoader/
 .minecraft/.replay_cache/
 .minecraft/replay_recordings/
