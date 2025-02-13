@@ -6,6 +6,15 @@
         "continuous_crafting_saved_value": false
     },
     "AutoRefillSettings": {
+        "auto_refill_enable_per_slot_config": {
+            "value": false
+        },
+        "auto_refill_enable_indicator_icons": {
+            "value": false
+        },
+        "auto_refill_enable_horbar_indicator_icons": {
+            "value": false
+        },
         "visual_durability_notification": {
             "value": false
         },

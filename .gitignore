@@ -13,6 +13,11 @@ PCL/*.txt
 .minecraft/usercache.json
 .minecraft/too_many_shortcuts.json
 .minecraft/command_history.txt
+.minecraft/debug/
+.minecraft/CustomSkinLoader/
+.minecraft/.replay_cache/
+.minecraft/replay_recordings/
+.minecraft/voxelmap/
 .minecraft/screenshots/
 .minecraft/libraries/
 .minecraft/itemscroller/
