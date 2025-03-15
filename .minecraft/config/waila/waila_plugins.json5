@@ -1,310 +1,300 @@
 {
   waila: {
-    // 显示方块
-    // Default value: [true]
+    // config.waila.plugin_waila.show_blocks
+    // json5.waila.config.default_value
     show_blocks: true,
-    // 显示流体
-    // 尝试显示流体
-    // Default value: [false]
+    // config.waila.plugin_waila.show_fluids
+    // json5.waila.config.default_value
     show_fluids: false,
-    // 显示实体
-    // Default value: [true]
+    // config.waila.plugin_waila.show_entities
+    // json5.waila.config.default_value
     show_entities: true,
-    // 显示图标
-    // Default value: [true]
+    // config.waila.plugin_waila.show_icon
+    // json5.waila.config.default_value
     show_icon: true,
-    // 图标位置
-    // Default value: [MIDDLE]
-    // Available values: [TOP, MIDDLE, BOTTOM]
+    // config.waila.plugin_waila.icon_position
+    // json5.waila.config.default_value
+    // json5.waila.config.available_values
     icon_position: "MIDDLE",
-    // 显示模组名称
-    // Default value: [true]
+    // config.waila.plugin_waila.show_mod_name
+    // json5.waila.config.default_value
     show_mod_name: true,
-    // 显示物品模组名称
-    // Default value: [true]
+    // config.waila.plugin_waila.show_item_mod_name
+    // json5.waila.config.default_value
     show_item_mod_name: true,
-    // 显示注册名称
-    // Default value: [false]
+    // config.waila.plugin_waila.show_registry
+    // json5.waila.config.default_value
     show_registry: false
   },
   minecraft: {
-    // 显示方块位置
-    // Default value: [false]
+    // config.waila.plugin_minecraft.block.position
+    // json5.waila.config.default_value
     "block.position": false,
-    // 显示方块状态
-    // Default value: [false]
+    // config.waila.plugin_minecraft.block.state
+    // json5.waila.config.default_value
     "block.state": false,
-    // 显示物品实体
-    // This value will get merged with the value from the server
-    // Default value: [true]
+    // config.waila.plugin_minecraft.entity.item_entity
+    // json5.waila.config.plugin.merged
+    // json5.waila.config.default_value
     "entity.item_entity": true,
-    // 显示实体位置
-    // Default value: [false]
+    // config.waila.plugin_minecraft.entity.position
+    // json5.waila.config.default_value
     "entity.position": false,
-    // 显示生命值
-    // This value will get merged with the value from the server
-    // Default value: [true]
+    // config.waila.plugin_minecraft.entity.health
+    // json5.waila.config.plugin.merged
+    // json5.waila.config.default_value
     "entity.health": true,
-    // 显示伤害吸收值
-    // Require server to have WTHIT installed, if not, will be locked to [false]
-    // Default value: [true]
+    // config.waila.plugin_minecraft.entity.absorption
+    // json5.waila.config.plugin.server_required
+    // json5.waila.config.default_value
     "entity.absorption": true,
-    // 显示护甲值
-    // This value will get merged with the value from the server
-    // Default value: [true]
+    // config.waila.plugin_minecraft.entity.armor
+    // json5.waila.config.plugin.merged
+    // json5.waila.config.default_value
     "entity.armor": true,
-    // 紧凑模式
-    // 用数字而不是用图标在一行中显示生命值和护甲值
-    // Default value: [false]
+    // config.waila.plugin_minecraft.entity.compact
+    // json5.waila.config.default_value
     "entity.compact": false,
-    // 每行最大图标
-    // 在新行开始之前生命值和盔甲值图标的最大数量
-    // Default value: [25]
+    // config.waila.plugin_minecraft.entity.icon_per_line
+    // json5.waila.config.default_value
     "entity.icon_per_line": 25,
-    // 要绘制的最大生命值
-    // 强制分数视图前，图标绘制的最大生命值
-    // Default value: [100]
+    // config.waila.plugin_minecraft.entity.long_health_max
+    // json5.waila.config.default_value
     "entity.long_health_max": 100,
-    // 要绘制的最大护甲值
-    // 强制数字视图前，图标绘制的最大护甲值
-    // Default value: [100]
+    // config.waila.plugin_minecraft.entity.long_armor_max
+    // json5.waila.config.default_value
     "entity.long_armor_max": 100,
-    // 显示宠物主人
-    // 仅适用于已注册的Minecraft帐户
-    // Require server to have WTHIT installed, if not, will be locked to [false]
-    // Default value: [true]
+    // config.waila.plugin_minecraft.pet.owner
+    // json5.waila.config.plugin.server_required
+    // json5.waila.config.default_value
     "pet.owner": true,
-    // 隐藏未知主人
-    // Default value: [false]
+    // config.waila.plugin_minecraft.pet.hide_unknown_owner
+    // json5.waila.config.default_value
     "pet.hide_unknown_owner": false,
-    // 显示马匹跳跃高度
-    // This value will get merged with the value from the server
-    // Default value: [true]
+    // config.waila.plugin_minecraft.horse.jump_height
+    // json5.waila.config.plugin.merged
+    // json5.waila.config.default_value
     "horse.jump_height": true,
-    // 显示马匹行进速度
-    // This value will get merged with the value from the server
-    // Default value: [true]
+    // config.waila.plugin_minecraft.horse.speed
+    // json5.waila.config.plugin.merged
+    // json5.waila.config.default_value
     "horse.speed": true,
-    // 显示熊猫基因
-    // This value will get merged with the value from the server
-    // Default value: [true]
+    // config.waila.plugin_minecraft.panda.genes
+    // json5.waila.config.plugin.merged
+    // json5.waila.config.default_value
     "panda.genes": true,
-    // 显示蜂巢位置
-    // Require server to have WTHIT installed, if not, will be locked to [false]
-    // Default value: [true]
+    // config.waila.plugin_minecraft.bee.hive_pos
+    // json5.waila.config.plugin.server_required
+    // json5.waila.config.default_value
     "bee.hive_pos": true,
-    // 显示蜂巢蜂蜜等级
-    // This value will get merged with the value from the server
-    // Default value: [true]
+    // config.waila.plugin_minecraft.bee.hive_honey_level
+    // json5.waila.config.plugin.merged
+    // json5.waila.config.default_value
     "bee.hive_honey_level": true,
-    // 显示蜂巢占领者
-    // Require server to have WTHIT installed, if not, will be locked to [false]
-    // Default value: [true]
+    // config.waila.plugin_minecraft.bee.hive_occupants
+    // json5.waila.config.plugin.server_required
+    // json5.waila.config.default_value
     "bee.hive_occupants": true,
-    // 显示信标效果
-    // Require server to have WTHIT installed, if not, will be locked to [false]
-    // Default value: [true]
+    // config.waila.plugin_minecraft.effect.beacon
+    // json5.waila.config.plugin.server_required
+    // json5.waila.config.default_value
     "effect.beacon": true,
-    // 显示生物效果
-    // Require server to have WTHIT installed, if not, will be locked to [false]
-    // Default value: [true]
+    // config.waila.plugin_minecraft.effect.mob
+    // json5.waila.config.plugin.server_required
+    // json5.waila.config.default_value
     "effect.mob": true,
-    // 显示隐藏的生物效果
-    // Require server to have WTHIT installed, if not, will be locked to [false]
-    // Default value: [false]
+    // config.waila.plugin_minecraft.effect.hidden_mob
+    // json5.waila.config.plugin.server_required
+    // json5.waila.config.default_value
     "effect.hidden_mob": false,
-    // 显示正在播放的唱片
-    // Require server to have WTHIT installed, if not, will be locked to [false]
-    // Default value: [true]
+    // config.waila.plugin_minecraft.jukebox.record
+    // json5.waila.config.plugin.server_required
+    // json5.waila.config.default_value
     "jukebox.record": true,
-    // 显示成长计时器
-    // Require server to have WTHIT installed, if not, will be locked to [false]
-    // Default value: [true]
+    // config.waila.plugin_minecraft.timer.grow
+    // json5.waila.config.plugin.server_required
+    // json5.waila.config.default_value
     "timer.grow": true,
-    // 显示繁殖冷却时间
-    // Require server to have WTHIT installed, if not, will be locked to [false]
-    // Default value: [true]
+    // config.waila.plugin_minecraft.timer.breed
+    // json5.waila.config.plugin.server_required
+    // json5.waila.config.default_value
     "timer.breed": true,
-    // 不显示隐身实体的信息
-    // This value will get merged with the value from the server
-    // Default value: [true]
+    // config.waila.plugin_minecraft.override.invisible_entity
+    // json5.waila.config.plugin.merged
+    // json5.waila.config.default_value
     "override.invisible_entity": true,
-    // 陷阱箱显示为正常箱子
-    // This value will get merged with the value from the server
-    // Default value: [true]
+    // config.waila.plugin_minecraft.override.trapped_chest
+    // json5.waila.config.plugin.merged
+    // json5.waila.config.default_value
     "override.trapped_chest": true,
-    // 细雪显示为正常雪
-    // This value will get merged with the value from the server
-    // Default value: [true]
+    // config.waila.plugin_minecraft.override.powder_snow
+    // json5.waila.config.plugin.merged
+    // json5.waila.config.default_value
     "override.powder_snow": true,
-    // 被虫蚀的方块显示为正常方块
-    // This value will get merged with the value from the server
-    // Default value: [true]
+    // config.waila.plugin_minecraft.override.infested
+    // json5.waila.config.plugin.merged
+    // json5.waila.config.default_value
     "override.infested": true,
-    // 不显示搭乘的实体信息
-    // 搭乘矿车、马匹等可搭乘实体时，不显示详细信息
-    // Default value: [true]
+    // config.waila.plugin_minecraft.override.vehicle
+    // json5.waila.config.default_value
     "override.vehicle": true,
-    // 显示挖掘进度
-    // This value will get merged with the value from the server
-    // Default value: [true]
+    // config.waila.plugin_minecraft.breaking_progress.enabled
+    // json5.waila.config.plugin.merged
+    // json5.waila.config.default_value
     "breaking_progress.enabled": true,
-    // 挖掘进度颜色
-    // Default value: [-1426063361]
+    // config.waila.plugin_minecraft.breaking_progress.color
+    // json5.waila.config.default_value
     "breaking_progress.color": -1426063361,
-    // 只在底部边界显示进度条
-    // Default value: [false]
+    // config.waila.plugin_minecraft.breaking_progress.bottom_only
+    // json5.waila.config.default_value
     "breaking_progress.bottom_only": false,
-    // 显示刷怪笼类型
-    // This value will get merged with the value from the server
-    // Default value: [true]
+    // config.waila.plugin_minecraft.spawner.type
+    // json5.waila.config.plugin.merged
+    // json5.waila.config.default_value
     "spawner.type": true,
-    // 显示作物生长进度
-    // This value will get merged with the value from the server
-    // Default value: [true]
+    // config.waila.plugin_minecraft.plant.crop_progress
+    // json5.waila.config.plugin.merged
+    // json5.waila.config.default_value
     "plant.crop_progress": true,
-    // 显示作物是否可生长
-    // This value will get merged with the value from the server
-    // Default value: [true]
+    // config.waila.plugin_minecraft.plant.crop_growable
+    // json5.waila.config.plugin.merged
+    // json5.waila.config.default_value
     "plant.crop_growable": true,
-    // 显示树木是否可生长
-    // This value will get merged with the value from the server
-    // Default value: [true]
+    // config.waila.plugin_minecraft.plant.tree_growable
+    // json5.waila.config.plugin.merged
+    // json5.waila.config.default_value
     "plant.tree_growable": true,
-    // 显示拉杆状态
-    // This value will get merged with the value from the server
-    // Default value: [true]
+    // config.waila.plugin_minecraft.redstone.lever
+    // json5.waila.config.plugin.merged
+    // json5.waila.config.default_value
     "redstone.lever": true,
-    // 显示中继器延迟
-    // This value will get merged with the value from the server
-    // Default value: [true]
+    // config.waila.plugin_minecraft.redstone.repeater
+    // json5.waila.config.plugin.merged
+    // json5.waila.config.default_value
     "redstone.repeater": true,
-    // 显示比较器模式
-    // This value will get merged with the value from the server
-    // Default value: [true]
+    // config.waila.plugin_minecraft.redstone.comparator
+    // json5.waila.config.plugin.merged
+    // json5.waila.config.default_value
     "redstone.comparator": true,
-    // 显示红石强度等级
-    // This value will get merged with the value from the server
-    // Default value: [true]
+    // config.waila.plugin_minecraft.redstone.level
+    // json5.waila.config.plugin.merged
+    // json5.waila.config.default_value
     "redstone.level": true,
-    // 显示玩家名称
-    // This value will get merged with the value from the server
-    // Default value: [true]
+    // config.waila.plugin_minecraft.player_head.name
+    // json5.waila.config.plugin.merged
+    // json5.waila.config.default_value
     "player_head.name": true,
-    // 显示堆肥等级
-    // This value will get merged with the value from the server
-    // Default value: [true]
+    // config.waila.plugin_minecraft.level.composter
+    // json5.waila.config.plugin.merged
+    // json5.waila.config.default_value
     "level.composter": true,
-    // 显示乐器与音符
-    // This value will get merged with the value from the server
-    // Default value: [true]
+    // config.waila.plugin_minecraft.note_block.type
+    // json5.waila.config.plugin.merged
+    // json5.waila.config.default_value
     "note_block.type": true,
-    // 音符显示模式
-    // Default value: [SHARP]
-    // Available values: [SHARP, FLAT]
+    // config.waila.plugin_minecraft.note_block.note
+    // json5.waila.config.default_value
+    // json5.waila.config.available_values
     "note_block.note": "SHARP",
-    // 显示整型等级数值
-    // Default value: [false]
+    // config.waila.plugin_minecraft.note_block.int_value
+    // json5.waila.config.default_value
     "note_block.int_value": false,
-    // 展示雕纹书架书籍
-    // Require server to have WTHIT installed, if not, will be locked to [false]
-    // Default value: [true]
+    // config.waila.plugin_minecraft.book.bookshelf
+    // json5.waila.config.plugin.server_required
+    // json5.waila.config.default_value
     "book.bookshelf": true,
-    // 附魔显示模式
-    // Default value: [CYCLE]
-    // Available values: [SEPARATE, COMBINED, CYCLE, DISABLED]
+    // config.waila.plugin_minecraft.book.enchantment
+    // json5.waila.config.default_value
+    // json5.waila.config.available_values
     "book.enchantment": "CYCLE",
-    // 附魔循环计时（毫秒）
-    // Default value: [500]
+    // config.waila.plugin_minecraft.book.enchantment_cycle_timing
+    // json5.waila.config.default_value
     "book.enchantment_cycle_timing": 500,
-    // 展示书籍的作者和时间
-    // Default value: [true]
+    // config.waila.plugin_minecraft.book.written
+    // json5.waila.config.default_value
     "book.written": true
   },
   harvest: {
-    // 显示收获物品
-    // This value will get merged with the value from the server
-    // Default value: [true]
+    // config.waila.plugin_harvest.enabled
+    // json5.waila.config.plugin.merged
+    // json5.waila.config.default_value
     enabled: true,
-    // 显示模式
-    // Default value: [MODERN]
-    // Available values: [MODERN, CLASSIC, CLASSIC_MINIMAL]
+    // config.waila.plugin_harvest.display_mode
+    // json5.waila.config.default_value
+    // json5.waila.config.available_values
     display_mode: "MODERN",
-    // 在创造上显示
-    // Default value: [false]
+    // config.waila.plugin_harvest.creative
+    // json5.waila.config.default_value
     creative: false
   },
   wailax: {
-    // 显示方块能量
-    // Require server to have WTHIT installed, if not, will be locked to [false]
-    // Default value: [true]
+    // config.waila.plugin_wailax.energy.enabled_block
+    // json5.waila.config.plugin.server_required
+    // json5.waila.config.default_value
     "energy.enabled_block": true,
-    // 显示实体能量
-    // Require server to have WTHIT installed, if not, will be locked to [false]
-    // Default value: [true]
+    // config.waila.plugin_wailax.energy.enabled_entity
+    // json5.waila.config.plugin.server_required
+    // json5.waila.config.default_value
     "energy.enabled_entity": true,
-    // 能量黑名单
-    // Custom config, open the following file
+    // config.waila.plugin_wailax.energy.blacklist
+    // json5.waila.config.plugin.custom_file
     // extra\energy_blacklist.json5
     "energy.blacklist": null,
-    // 显示方块流体内容
-    // Require server to have WTHIT installed, if not, will be locked to [false]
-    // Default value: [true]
+    // config.waila.plugin_wailax.fluid.enabled_block
+    // json5.waila.config.plugin.server_required
+    // json5.waila.config.default_value
     "fluid.enabled_block": true,
-    // 显示实体流体内容
-    // Require server to have WTHIT installed, if not, will be locked to [false]
-    // Default value: [true]
+    // config.waila.plugin_wailax.fluid.enabled_entity
+    // json5.waila.config.plugin.server_required
+    // json5.waila.config.default_value
     "fluid.enabled_entity": true,
-    // 显示装置
-    // Default value: [MILLIBUCKETS]
-    // Available values: [MILLIBUCKETS, DROPLETS]
+    // config.waila.plugin_wailax.fluid.display_unit
+    // json5.waila.config.default_value
+    // json5.waila.config.available_values
     "fluid.display_unit": "MILLIBUCKETS",
-    // 流体内容黑名单
-    // Custom config, open the following file
+    // config.waila.plugin_wailax.fluid.blacklist
+    // json5.waila.config.plugin.custom_file
     // extra\fluid_blacklist.json5
     "fluid.blacklist": null,
-    // 显示方块合成进度
-    // Require server to have WTHIT installed, if not, will be locked to [false]
-    // Default value: [true]
+    // config.waila.plugin_wailax.progress.enabled_block
+    // json5.waila.config.plugin.server_required
+    // json5.waila.config.default_value
     "progress.enabled_block": true,
-    // 显示实体合成进度
-    // Require server to have WTHIT installed, if not, will be locked to [false]
-    // Default value: [true]
+    // config.waila.plugin_wailax.progress.enabled_entity
+    // json5.waila.config.plugin.server_required
+    // json5.waila.config.default_value
     "progress.enabled_entity": true,
-    // 合成进度黑名单
-    // Custom config, open the following file
+    // config.waila.plugin_wailax.progress.blacklist
+    // json5.waila.config.plugin.custom_file
     // extra\progress_blacklist.json5
     "progress.blacklist": null,
-    // 显示方块物品内容
-    // Require server to have WTHIT installed, if not, will be locked to [false]
-    // Default value: [true]
+    // config.waila.plugin_wailax.item.enabled_block
+    // json5.waila.config.plugin.server_required
+    // json5.waila.config.default_value
     "item.enabled_block": true,
-    // 显示实体物品内容
-    // Require server to have WTHIT installed, if not, will be locked to [false]
-    // Default value: [true]
+    // config.waila.plugin_wailax.item.enabled_entity
+    // json5.waila.config.plugin.server_required
+    // json5.waila.config.default_value
     "item.enabled_entity": true,
-    // 同步NBT数据
-    // Require server to have WTHIT installed, if not, will be locked to [false]
-    // Default value: [true]
+    // config.waila.plugin_wailax.item.nbt
+    // json5.waila.config.plugin.server_required
+    // json5.waila.config.default_value
     "item.nbt": true,
-    // 显示模式
-    // 网格: 显示为网格，就像物品栏的工作原理一样
-    // 列表：显示为带内联名称的垂直列表
-    // 动态：超过最大高度时从列表切换到网格
-    // Default value: [DYNAMIC]
-    // Available values: [GRID, LIST, DYNAMIC]
+    // config.waila.plugin_wailax.item.display_mode
+    // json5.waila.config.default_value
+    // json5.waila.config.available_values
     "item.display_mode": "DYNAMIC",
-    // 最大高度
-    // Default value: [3]
+    // config.waila.plugin_wailax.item.max_height
+    // json5.waila.config.default_value
     "item.max_height": 3,
-    // 按计数排序
-    // Default value: [true]
+    // config.waila.plugin_wailax.item.sort_by_count
+    // json5.waila.config.default_value
     "item.sort_by_count": true,
-    // Grid Mode Scale
-    // Default value: [1.0]
+    // config.waila.plugin_wailax.item.grid_mode_scale
+    // json5.waila.config.default_value
     "item.grid_mode_scale": 1.0,
-    // 物品内容黑名单
-    // Custom config, open the following file
+    // config.waila.plugin_wailax.item.blacklist
+    // json5.waila.config.plugin.custom_file
     // extra\item_blacklist.json5
     "item.blacklist": null
   }
