@@ -6,19 +6,25 @@
     "openGuiConfigs": {
       "keys": "A,C"
     },
+    "enableActionbarMessages": {
+      "enabled": true,
+      "hotkey": {
+        "keys": ""
+      }
+    },
     "enableConfigSwitcher": {
       "enabled": true,
       "hotkey": {
         "keys": ""
       }
     },
-    "realmsCommonConfig": true,
-    "enableActionbarMessages": {
+    "enableStatusEffectsShift": {
       "enabled": true,
       "hotkey": {
         "keys": ""
       }
-    }
+    },
+    "realmsCommonConfig": true
   },
   "Debug": {
     "debugMessages": false,

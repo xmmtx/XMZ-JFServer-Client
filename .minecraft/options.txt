@@ -51,7 +51,7 @@ damageTiltStrength:1.0
 highContrast:false
 highContrastBlockOutline:false
 narratorHotkey:true
-resourcePacks:["vanilla","fabric","betterbeds:fancyconnectedbeds","continuity:default","continuity:glass_pane_culling_fix","file/CozyUI+_1-3_no-fonts.zip","file/护眼大补丸1.21.4_v3b.zip","file/XKRD 红显v3.5for1.21.4.zip"]
+resourcePacks:["vanilla","fabric","betterbeds:fancyconnectedbeds","continuity:default","file/CozyUI+_1-3_no-fonts.zip","file/护眼大补丸1.21.4_v3b.zip","file/XKRD 红显v3.5for1.21.4.zip","file/masa-mods-chinese.zip","file/SodiumTranslations.zip","continuity:glass_pane_culling_fix"]
 incompatibleResourcePacks:["appleskin","authme","imblocker","neat","replaymod","voxelmap","zume"]
 lastServer:
 lang:zh_cn
