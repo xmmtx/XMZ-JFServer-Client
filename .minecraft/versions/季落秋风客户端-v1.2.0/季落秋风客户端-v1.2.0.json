@@ -1,5 +1,5 @@
 {
-  "id": "季落秋风客户端-v1.0.0",
+  "id": "季落秋风客户端-v1.2.0",
   "arguments": {
     "game": [
       "--username",
@@ -162,7 +162,6 @@
     ]
   },
   "mainClass": "net.fabricmc.loader.impl.launch.knot.KnotClient",
-  "jar": "季落秋风客户端-v1.0.0",
   "assetIndex": {
     "totalSize": 400804025,
     "id": "19",
@@ -1874,6 +1873,11 @@
     }
   ],
   "downloads": {
+    "client": {
+      "url": "https://piston-data.mojang.com/v1/objects/a7e5a6024bfd3cd614625aa05629adf760020304/client.jar",
+      "sha1": "a7e5a6024bfd3cd614625aa05629adf760020304",
+      "size": 28335587
+    },
     "server": {
       "url": "https://piston-data.mojang.com/v1/objects/4707d00eb834b446575d89a61a11b5d548d8c001/server.jar",
       "sha1": "4707d00eb834b446575d89a61a11b5d548d8c001",
@@ -1888,11 +1892,6 @@
       "url": "https://piston-data.mojang.com/v1/objects/0b1e60cc509cfb0172573ae56b436c29febbc187/server.txt",
       "sha1": "0b1e60cc509cfb0172573ae56b436c29febbc187",
       "size": 7753825
-    },
-    "client": {
-      "url": "https://piston-data.mojang.com/v1/objects/a7e5a6024bfd3cd614625aa05629adf760020304/client.jar",
-      "sha1": "a7e5a6024bfd3cd614625aa05629adf760020304",
-      "size": 28335587
     }
   },
   "logging": {
@@ -3770,10 +3769,10 @@
         }
       ],
       "downloads": {
-        "server": {
-          "url": "https://piston-data.mojang.com/v1/objects/4707d00eb834b446575d89a61a11b5d548d8c001/server.jar",
-          "sha1": "4707d00eb834b446575d89a61a11b5d548d8c001",
-          "size": 56880250
+        "client": {
+          "url": "https://piston-data.mojang.com/v1/objects/a7e5a6024bfd3cd614625aa05629adf760020304/client.jar",
+          "sha1": "a7e5a6024bfd3cd614625aa05629adf760020304",
+          "size": 28335587
         },
         "client_mappings": {
           "url": "https://piston-data.mojang.com/v1/objects/0cf2a0b7f056da1a5a5dd99fc6dc752f33987150/client.txt",
@@ -3785,10 +3784,10 @@
           "sha1": "0b1e60cc509cfb0172573ae56b436c29febbc187",
           "size": 7753825
         },
-        "client": {
-          "url": "https://piston-data.mojang.com/v1/objects/a7e5a6024bfd3cd614625aa05629adf760020304/client.jar",
-          "sha1": "a7e5a6024bfd3cd614625aa05629adf760020304",
-          "size": 28335587
+        "server": {
+          "url": "https://piston-data.mojang.com/v1/objects/4707d00eb834b446575d89a61a11b5d548d8c001/server.jar",
+          "sha1": "4707d00eb834b446575d89a61a11b5d548d8c001",
+          "size": 56880250
         }
       },
       "logging": {
