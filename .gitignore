@@ -29,3 +29,4 @@ PCL/*.txt
 .minecraft/assets/
 .minecraft/saves/
 .minecraft/downloads/
+.hmcl/
