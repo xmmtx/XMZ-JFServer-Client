@@ -27,7 +27,7 @@
 > 该整合不包含Minecraft本体、Fabric、Java。
 
 ## 使用方法
-首先，运行Minecraft: Java Edition需要安装Java。该包使用1.21.8，建议直接安装最新Java发布版。 <br>
+首先，运行Minecraft: Java Edition需要安装Java。该包使用 `mc1.21.8` ，建议直接安装最新Java发布版。 <br>
 
 **Java**下载： <br>
 [甲骨文 JDK25 Windows](https://www.oracle.com/cn/java/technologies/downloads/#jdk25-windows) <br>

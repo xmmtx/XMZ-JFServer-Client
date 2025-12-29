@@ -27,9 +27,9 @@ Full mods list: https://github.com/xmmtx/XMZ-JFServer-Client/tree/main/.minecraf
 > This modpack does not include Minecraft itself Fabric、Java.
 
 ## Usage
-Firstly, running Minecraft: Java Edition requires installing Java. This modpack uses mc1.21.8, it is recommended to install the latest Java release directly.  
+Firstly, running Minecraft: Java Edition requires installing Java. This modpack uses `mc1.21.8`, it is recommended to install the latest Java release directly.  
 
-**Java**Download:  
+**Java** Download:  
 [Oracle JDK25 Windows](https://www.oracle.com/cn/java/technologies/downloads/#jdk25-windows)  
 [Azul JDK25 Windows](https://www.azul.com/downloads/?version=java-25&os=windows&package=jdk#zulu)  
 
