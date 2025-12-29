@@ -34,7 +34,7 @@
 [Azul JDK25 Windows](https://www.azul.com/downloads/?version=java-25&os=windows&package=jdk#zulu) <br>
 
 > [!TIP]
-> 以下命名方法仅试用与 `v3.0.0` 及以上版本
+> 以下命名方法仅适用于 `v3.0.0` 及以上版本
 
 #### 使用普通包（推荐）
 1. 前往发布版下载，文件后缀为 `Regular`
