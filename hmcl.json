@@ -1,23 +1,40 @@
 {
-  "last": "Default",
-  "backgroundType": "DEFAULT",
-  "commonDirType": "DEFAULT",
-  "commonpath": "C:\\Users\\Lenovo\\AppData\\Roaming\\.minecraft",
-  "hasProxy": false,
-  "hasProxyAuth": false,
-  "proxyType": "HTTP",
-  "proxyPort": 0,
-  "x": 0.22460371299789644,
-  "y": 0.22722400857449088,
+  "_version": 2,
+  "uiVersion": 0,
+  "x": 0.23398080609903507,
+  "y": 0.24794568943951803,
   "width": 818.0,
   "height": 508.0,
-  "theme": "#148d45",
   "localization": "def",
+  "promptedVersion": "3.8.2",
+  "shownTips": {},
+  "commonDirType": "DEFAULT",
+  "commonpath": "C:\\Users\\Lenovo\\AppData\\Roaming\\.minecraft",
+  "theme": "#148d45",
+  "fontSize": 12.0,
+  "animationDisabled": false,
+  "titleTransparent": true,
+  "backgroundType": "DEFAULT",
   "autoDownloadThreads": true,
   "downloadThreads": 64,
   "downloadType": "bmclapi",
   "autoChooseDownloadType": true,
   "versionListSource": "balanced",
+  "hasProxy": false,
+  "hasProxyAuth": false,
+  "proxyType": "HTTP",
+  "proxyPort": 0,
+  "authlibInjectorServers": [
+    {
+      "url": "https://littleskin.cn/api/yggdrasil/",
+      "metadataResponse": "{\"meta\":{\"serverName\":\"LittleSkin\",\"implementationName\":\"Yggdrasil Connect\",\"implementationVersion\":\"0.0.7\",\"links\":{\"announcement\":\"https://littleskin.cn/api/announcements\",\"homepage\":\"https://littleskin.cn\",\"register\":\"https://littleskin.cn/auth/register\"},\"feature.no_email_login\":true,\"feature.openid_configuration_url\":\"https://open.littleskin.cn/.well-known/openid-configuration\"},\"skinDomains\":[\"littleskin.cn\"],\"signaturePublickey\":\"-----BEGIN PUBLIC KEY-----\\nMIICIjANBgkqhkiG9w0BAQEFAAOCAg8AMIICCgKCAgEArGcNOOFIqLJSqoE3u0hj\\ntOEnOcET3wj9Drss1BE6sBqgPo0bMulOULhqjkc/uH/wyosYnzw3xaazJt87jTHh\\nJ8BPMxCeQMoyEdRoS3Jnj1G0Kezj4A2b61PJJM1DpvDAcqQBYsrSdpBJ+52MjoGS\\nvJoeQO5XUlJVQm21/HmJnqsPhzcA6HgY71RHYE5xnhpWJiPxLKUPtmt6CNYUQQoS\\no2v36XWgMmLBZhAbNOPxYX+1ioxKamjhLO29UhwtgY9U6PWEO7/SBfXzyRPTzhPV\\n2nHq7KJqd8IIrltslv6i/4FEM81ivS/mm+PN3hYlIYK6z6Ymii1nrQAplsJ67OGq\\nYHtWKOvpfTzOollugsRihkAG4OB6hM0Pr45jjC3TIc7eO7kOgIcGUGUQGuuugDEz\\nJ1N9FFWnN/H6P9ukFeg5SmGC5+wmUPZZCtNBLr8o8sI5H7QhK7NgwCaGFoYuiAGL\\ngz3k/3YwJ40BbwQayQ2gIqenz+XOFIAlajv+/nyfcDvZH9vGNKP9lVcHXUT5YRnS\\nZSHo5lwvVrYUrqEAbh/zDz8QMEyiujWvUkPhZs9fh6fimUGxtm8mFIPCtPJVXjeY\\nwD3Lvt3aIB1JHdUTJR3eEc4eIaTKMwMPyJRzVn5zKsitaZz3nn/cOA/wZC9oqyEU\\nmc9h6ZMRTRUEE4TtaJyg9lMCAwEAAQ\u003d\u003d\\n-----END PUBLIC KEY-----\\n\"}",
+      "metadataTimestamp": 1766988208720
+    }
+  ],
+  "addedLittleSkin": true,
+  "selectedAccount": "$GLOBAL:microsoft:5feac7f3-6b23-4096-8e54-ff9b24df6f8e",
+  "accounts": [],
+  "last": "Default",
   "configurations": {
     "Default": {
       "global": {
@@ -37,12 +54,13 @@
         "wrapper": "",
         "fullscreen": false,
         "noJVMArgs": false,
+        "noOptimizingJVMArgs": false,
         "notCheckGame": false,
         "notCheckJVM": false,
         "notPatchNatives": false,
         "showLogs": false,
         "gameDir": "",
-        "launcherVisibility": 1,
+        "launcherVisibility": 2,
         "processPriority": 2,
         "useNativeGLFW": false,
         "useNativeOpenAL": false,
@@ -56,7 +74,7 @@
       },
       "gameDir": ".minecraft",
       "useRelativePath": true,
-      "selectedMinecraftVersion": "季落秋风客户端-v2.0.0"
+      "selectedMinecraftVersion": "季落秋风客户端-v3.0.0"
     },
     "Home": {
       "global": {
@@ -76,6 +94,7 @@
         "wrapper": "",
         "fullscreen": false,
         "noJVMArgs": false,
+        "noOptimizingJVMArgs": false,
         "notCheckGame": false,
         "notCheckJVM": false,
         "notPatchNatives": false,
@@ -98,22 +117,5 @@
       "useRelativePath": false,
       "selectedMinecraftVersion": ""
     }
-  },
-  "selectedAccount": "$GLOBAL:microsoft:5feac7f3-6b23-4096-8e54-ff9b24df6f8e",
-  "accounts": [],
-  "fontSize": 12.0,
-  "titleTransparent": true,
-  "authlibInjectorServers": [
-    {
-      "url": "https://littleskin.cn/api/yggdrasil/",
-      "metadataResponse": "{\"meta\":{\"serverName\":\"LittleSkin\",\"implementationName\":\"Yggdrasil Connect\",\"implementationVersion\":\"0.0.6\",\"links\":{\"announcement\":\"https://littleskin.cn/api/announcements\",\"homepage\":\"https://littleskin.cn\",\"register\":\"https://littleskin.cn/auth/register\"},\"feature.no_email_login\":true,\"feature.openid_configuration_url\":\"https://open.littleskin.cn/.well-known/openid-configuration\"},\"skinDomains\":[\"littleskin.cn\"],\"signaturePublickey\":\"-----BEGIN PUBLIC KEY-----\\nMIICIjANBgkqhkiG9w0BAQEFAAOCAg8AMIICCgKCAgEArGcNOOFIqLJSqoE3u0hj\\ntOEnOcET3wj9Drss1BE6sBqgPo0bMulOULhqjkc/uH/wyosYnzw3xaazJt87jTHh\\nJ8BPMxCeQMoyEdRoS3Jnj1G0Kezj4A2b61PJJM1DpvDAcqQBYsrSdpBJ+52MjoGS\\nvJoeQO5XUlJVQm21/HmJnqsPhzcA6HgY71RHYE5xnhpWJiPxLKUPtmt6CNYUQQoS\\no2v36XWgMmLBZhAbNOPxYX+1ioxKamjhLO29UhwtgY9U6PWEO7/SBfXzyRPTzhPV\\n2nHq7KJqd8IIrltslv6i/4FEM81ivS/mm+PN3hYlIYK6z6Ymii1nrQAplsJ67OGq\\nYHtWKOvpfTzOollugsRihkAG4OB6hM0Pr45jjC3TIc7eO7kOgIcGUGUQGuuugDEz\\nJ1N9FFWnN/H6P9ukFeg5SmGC5+wmUPZZCtNBLr8o8sI5H7QhK7NgwCaGFoYuiAGL\\ngz3k/3YwJ40BbwQayQ2gIqenz+XOFIAlajv+/nyfcDvZH9vGNKP9lVcHXUT5YRnS\\nZSHo5lwvVrYUrqEAbh/zDz8QMEyiujWvUkPhZs9fh6fimUGxtm8mFIPCtPJVXjeY\\nwD3Lvt3aIB1JHdUTJR3eEc4eIaTKMwMPyJRzVn5zKsitaZz3nn/cOA/wZC9oqyEU\\nmc9h6ZMRTRUEE4TtaJyg9lMCAwEAAQ\u003d\u003d\\n-----END PUBLIC KEY-----\\n\"}",
-      "metadataTimestamp": 1747152172889
-    }
-  ],
-  "addedLittleSkin": true,
-  "promptedVersion": "3.6.12",
-  "_version": 2,
-  "uiVersion": 0,
-  "animationDisabled": false,
-  "shownTips": {}
+  }
 }

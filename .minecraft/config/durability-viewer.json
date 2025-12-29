@@ -1,6 +1,6 @@
 {
   "Settings": {
-    "ArmorAroundHotbar": false,
+    "ArmorAroundHotbar": true,
     "HUDCorner": "Bottom-Right",
     "EffectDuration": true,
     "HideDamageOverPercent": 100,

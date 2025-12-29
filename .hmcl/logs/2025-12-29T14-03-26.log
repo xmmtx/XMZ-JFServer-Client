@@ -1,0 +1,271 @@
+[14:03:26] [@.util.SelfDependencyPatcher.patch/INFO] Missing JavaFX dependencies, attempting to patch in missing classes
+[14:03:26] [@.util.SelfDependencyPatcher.loadFromCache/INFO]  - Loading dependencies...
+[14:03:26] [@.util.SelfDependencyPatcher.patch/INFO]  - Done!
+[14:03:26] [@.Launcher.main/INFO] *** HMCL 3.8.2 ***
+[14:03:26] [@.Launcher.main/INFO] Operating System: Windows 11 25H2 10.0.26200.7462
+[14:03:26] [@.Launcher.main/INFO] Processor Identifier: AMD64 Family 25 Model 80 Stepping 0, AuthenticAMD
+[14:03:26] [@.Launcher.main/INFO] System Architecture: x86-64
+[14:03:26] [@.Launcher.main/INFO] Native Encoding: GB18030
+[14:03:26] [@.Launcher.main/INFO] JNU Encoding: GBK
+[14:03:26] [@.Launcher.main/INFO] Code Page: 936
+[14:03:26] [@.Launcher.main/INFO] Java Architecture: x86-64
+[14:03:26] [@.Launcher.main/INFO] Java Version: 23.0.2, Oracle Corporation
+[14:03:26] [@.Launcher.main/INFO] Java VM Version: Java HotSpot(TM) 64-Bit Server VM (mixed mode, sharing), Oracle Corporation
+[14:03:26] [@.Launcher.main/INFO] Java Home: C:\Program Files\Java\jdk-23
+[14:03:26] [@.Launcher.main/INFO] Current Directory: D:\项目\XMZ-JFServer-Client
+[14:03:26] [@.Launcher.main/INFO] HMCL Global Directory: C:\Users\Lenovo\AppData\Roaming\.hmcl
+[14:03:26] [@.Launcher.main/INFO] HMCL Current Directory: D:\项目\XMZ-JFServer-Client\.hmcl
+[14:03:26] [@.Launcher.main/INFO] HMCL Jar Path: D:\项目\XMZ-JFServer-Client\HMCL-3.8.2.exe
+[14:03:26] [@.Launcher.main/INFO] HMCL Log File: D:\项目\XMZ-JFServer-Client\.hmcl\logs\2025-12-29T14-03-26.log
+[14:03:26] [@.Launcher.main/INFO] JVM Max Memory: 1024 MiB
+[14:03:26] [@.Launcher.main/INFO] Metaspace: 6.46 MiB
+[14:03:26] [@.Launcher.main/INFO] Native Backend: JNA
+[14:03:26] [@.util.platform.SystemInfo.initialize/INFO] System Info:
+ - CPU: AMD Ryzen 5 5600U (6 Cores / 12 Threads)
+ - GPU 1: cvte Graphics
+ - GPU 2: Shanghai Best Oray Information Technology Co., Ltd. Graphics
+ - GPU 3: ZakoTech Graphics
+ - GPU 4: Amyuni Graphics
+ - GPU 5: AMD Radeon Graphics� [Discrete]
+ - GPU 6: NVIDIA GeForce MX450 [Discrete]
+ - Memory: 10.5 GiB / 13.87 GiB (75%)
+[14:03:27] [@.Launcher.start/INFO] JavaFX Version: 25+29
+[14:03:27] [@.Launcher.start/INFO] Prism Pipeline: com.sun.prism.d3d.D3DPipeline
+[14:03:27] [@.Launcher.start/INFO] Dark Mode: false
+[14:03:27] [@.Launcher.start/INFO] Reduced Motion: false
+[14:03:27] [@.setting.ConfigHolder.init/INFO] Config location: D:\项目\XMZ-JFServer-Client\hmcl.json
+[14:03:27] [@.task.AsyncTaskExecutor.lambda$executeNormalTask$19/TRACE] Executing task: org.jackhuang.hmcl.game.GameRepository.refreshVersionsAsync(GameRepository.java:91)
+[14:03:27] [@.task.AsyncTaskExecutor.lambda$executeNormalTask$19/TRACE] Executing task: org.jackhuang.hmcl.game.GameRepository.refreshVersionsAsync(GameRepository.java:91)
+[14:03:27] [@.event.EventBus.fireEvent/INFO] RefreshingVersionsEvent [source=HMCLGameRepository [versions=null, baseDirectory=.minecraft]] gets fired
+[14:03:27] [@.event.EventBus.fireEvent/INFO] RefreshingVersionsEvent [source=HMCLGameRepository [versions=null, baseDirectory=.minecraft]] gets fired
+[14:03:28] [@.ui.Controllers.initialize/INFO] Start initializing application
+[14:03:28] [@.ui.Controllers.initialize/INFO] Disable sub-pixel antialiasing
+[14:03:28] [@.event.EventBus.fireEvent/INFO] LoadedOneVersionEvent [source=HMCLGameRepository [versions=null, baseDirectory=.minecraft], version=Version [id=季落秋风客户端-v3.0.0]] gets fired
+[14:03:28] [@.event.EventBus.fireEvent/INFO] LoadedOneVersionEvent [source=HMCLGameRepository [versions=null, baseDirectory=.minecraft], version=Version [id=季落秋风客户端-v3.0.0]] gets fired
+[14:03:28] [@.event.EventBus.fireEvent/INFO] RefreshedVersionsEvent [source=HMCLGameRepository [versions=[季落秋风客户端-v3.0.0], baseDirectory=.minecraft]] gets fired
+[14:03:28] [@.event.EventBus.fireEvent/INFO] RefreshedVersionsEvent [source=HMCLGameRepository [versions=[季落秋风客户端-v3.0.0], baseDirectory=.minecraft]] gets fired
+[14:03:28] [@.task.AsyncTaskExecutor.lambda$executeNormalTask$29/TRACE] Task finished: org.jackhuang.hmcl.game.GameRepository.refreshVersionsAsync(GameRepository.java:91)
+[14:03:28] [@.task.AsyncTaskExecutor.lambda$executeNormalTask$29/TRACE] Task finished: org.jackhuang.hmcl.game.GameRepository.refreshVersionsAsync(GameRepository.java:91)
+[14:03:28] [@.auth.authlibinjector.AuthlibInjectorServer.refreshMetadata/INFO] authlib-injector server metadata refreshed: https://littleskin.cn/api/yggdrasil/
+[14:03:29] [@.setting.FontManager.<clinit>/INFO] Font: System
+[14:03:29] [@.java.JavaManager.searchPotentialJavaExecutables/TRACE] Finished Java lookup, found 6
+ - JDK 1.8.0_291 (x86-64, Unknown): C:\Program Files\Java\jdk1.8.0_291\bin\java.exe
+ - JRE 1.8.0_471 (x86-64, Unknown): C:\Program Files\Java\jre1.8.0_471\bin\java.exe
+ - JDK 17.0.12 (x86-64, Oracle Corporation): C:\Program Files\Java\jdk-17\bin\java.exe
+ - JDK 20.0.2 (x86-64, Oracle Corporation): C:\Program Files\Java\jdk-20\bin\java.exe
+ - JDK 22.0.1 (x86-64, Oracle Corporation): C:\Program Files\Java\jdk-22\bin\java.exe
+ - JDK 23.0.2 (x86-64, Oracle Corporation): C:\Program Files\Java\jdk-23\bin\java.exe
+[14:03:29] [@.auth.microsoft.MicrosoftService.lambda$new$0/INFO] Fetching properties of 5feac7f3-6b23-4096-8e54-ff9b24df6f8e
+[14:03:30] [@.util.FileSaver.saveSync/INFO] Saving file D:\项目\XMZ-JFServer-Client\hmcl.json
+[14:03:30] [@.upgrade.IntegrityChecker.isSelfVerified/INFO] Successfully verified current JAR
+[14:03:31] [@.ui.Controllers.prepareVersionPage/INFO] Prepare the version page
+[14:03:32] [@.game.LauncherHelper.launch/INFO] Launching game version: 季落秋风客户端-v3.0.0
+[14:03:32] [@.ui.construct.JFXDialogPane.push/INFO] JFXDialogPane@2b45c5f [TaskExecutorDialogPane@795f863e]
+[14:03:32] [@.task.AsyncTaskExecutor.lambda$executeNormalTask$19/TRACE] Executing task: org.jackhuang.hmcl.task.Task$StagesHintTask
+[14:03:32] [@.task.AsyncTaskExecutor.lambda$executeNormalTask$19/TRACE] Executing task: org.jackhuang.hmcl.game.LauncherHelper$$Lambda/0x0000021ba7561958@15102da
+[14:03:32] [@.task.AsyncTaskExecutor.lambda$executeNormalTask$19/TRACE] Executing task: org.jackhuang.hmcl.task.Task$UniCompose$$Lambda/0x0000021ba75614f8@f14554
+[14:03:32] [@.task.AsyncTaskExecutor.lambda$executeNormalTask$19/TRACE] Executing task: org.jackhuang.hmcl.task.Task$UniCompose$$Lambda/0x0000021ba75614f8@252562d
+[14:03:32] [@.task.AsyncTaskExecutor.lambda$executeNormalTask$19/TRACE] Executing task: org.jackhuang.hmcl.task.Task$StageTask
+[14:03:32] [@.task.AsyncTaskExecutor.lambda$executeNormalTask$19/TRACE] Executing task: org.jackhuang.hmcl.game.LauncherHelper$$Lambda/0x0000021ba7561098@7bbc60fc
+[14:03:32] [@.task.AsyncTaskExecutor.lambda$executeNormalTask$19/TRACE] Executing task: org.jackhuang.hmcl.task.Task$StageTask
+[14:03:32] [@.task.AsyncTaskExecutor.lambda$executeNormalTask$19/TRACE] Executing task: org.jackhuang.hmcl.game.LauncherHelper$$Lambda/0x0000021ba7560e70@6b5bd376
+[14:03:32] [@.task.AsyncTaskExecutor.lambda$executeNormalTask$19/TRACE] Executing task: org.jackhuang.hmcl.game.LauncherHelper.checkGameState(LauncherHelper.java:346)
+[14:03:32] [@.task.AsyncTaskExecutor.lambda$executeNormalTask$29/TRACE] Task finished: org.jackhuang.hmcl.game.LauncherHelper.checkGameState(LauncherHelper.java:346)
+[14:03:32] [@.task.AsyncTaskExecutor.lambda$executeCompletableFutureTask$10/TRACE] Executing task: org.jackhuang.hmcl.task.Task$4
+[14:03:32] [@.task.AsyncTaskExecutor.lambda$executeCompletableFutureTask$12/TRACE] Task finished: org.jackhuang.hmcl.task.Task$4
+[14:03:32] [@.task.AsyncTaskExecutor.lambda$executeNormalTask$29/TRACE] Task finished: org.jackhuang.hmcl.game.LauncherHelper$$Lambda/0x0000021ba7560e70@6b5bd376
+[14:03:32] [@.task.AsyncTaskExecutor.lambda$executeNormalTask$29/TRACE] Task finished: org.jackhuang.hmcl.task.Task$StageTask
+[14:03:32] [@.task.AsyncTaskExecutor.lambda$executeNormalTask$19/TRACE] Executing task: org.jackhuang.hmcl.game.LauncherHelper.lambda$launch0$4(LauncherHelper.java:151)
+[14:03:32] [@.task.AsyncTaskExecutor.lambda$executeNormalTask$19/TRACE] Executing task: org.jackhuang.hmcl.game.LauncherHelper.lambda$launch0$4(LauncherHelper.java:161)
+[14:03:32] [@.task.AsyncTaskExecutor.lambda$executeNormalTask$19/TRACE] Executing task: org.jackhuang.hmcl.download.game.GameAssetDownloadTask
+[14:03:32] [@.task.AsyncTaskExecutor.lambda$executeNormalTask$19/TRACE] Executing task: org.jackhuang.hmcl.download.game.GameLibrariesTask
+[14:03:32] [@.task.AsyncTaskExecutor.lambda$executeNormalTask$19/TRACE] Executing task: org.jackhuang.hmcl.task.Task$UniCompose$$Lambda/0x0000021ba75614f8@5cb7582e
+[14:03:32] [@.task.AsyncTaskExecutor.lambda$executeNormalTask$19/TRACE] Executing task: org.jackhuang.hmcl.download.game.GameAssetIndexDownloadTask
+[14:03:32] [@.task.AsyncTaskExecutor.lambda$executeNormalTask$19/TRACE] Executing task: org.jackhuang.hmcl.download.DefaultDependencyManager.checkGameCompletionAsync(DefaultDependencyManager.java:83)
+[14:03:32] [@.task.AsyncTaskExecutor.lambda$executeNormalTask$29/TRACE] Task finished: org.jackhuang.hmcl.game.LauncherHelper.lambda$launch0$4(LauncherHelper.java:161)
+[14:03:32] [@.task.AsyncTaskExecutor.lambda$executeNormalTask$29/TRACE] Task finished: org.jackhuang.hmcl.download.DefaultDependencyManager.checkGameCompletionAsync(DefaultDependencyManager.java:83)
+[14:03:32] [@.task.AsyncTaskExecutor.lambda$executeNormalTask$19/TRACE] Executing task: org.jackhuang.hmcl.download.DefaultDependencyManager.checkPatchCompletionAsync(DefaultDependencyManager.java:103)
+[14:03:32] [@.task.AsyncTaskExecutor.lambda$executeNormalTask$29/TRACE] Task finished: org.jackhuang.hmcl.download.DefaultDependencyManager.checkPatchCompletionAsync(DefaultDependencyManager.java:103)
+[14:03:32] [@.task.AsyncTaskExecutor.lambda$executeNormalTask$29/TRACE] Task finished: org.jackhuang.hmcl.task.Task$UniCompose$$Lambda/0x0000021ba75614f8@5cb7582e
+[14:03:32] [@.task.AsyncTaskExecutor.lambda$executeNormalTask$29/TRACE] Task finished: org.jackhuang.hmcl.download.game.GameAssetIndexDownloadTask
+[14:03:32] [@.task.AsyncTaskExecutor.lambda$executeNormalTask$29/TRACE] Task finished: org.jackhuang.hmcl.game.LauncherHelper.lambda$launch0$4(LauncherHelper.java:151)
+[14:03:32] [@.task.AsyncTaskExecutor.lambda$executeNormalTask$29/TRACE] Task finished: org.jackhuang.hmcl.download.game.GameLibrariesTask
+[14:03:33] [@.task.AsyncTaskExecutor.lambda$executeNormalTask$29/TRACE] Task finished: org.jackhuang.hmcl.download.game.GameAssetDownloadTask
+[14:03:33] [@.task.AsyncTaskExecutor.lambda$executeNormalTask$29/TRACE] Task finished: org.jackhuang.hmcl.game.LauncherHelper$$Lambda/0x0000021ba7561098@7bbc60fc
+[14:03:33] [@.task.AsyncTaskExecutor.lambda$executeNormalTask$29/TRACE] Task finished: org.jackhuang.hmcl.task.Task$StageTask
+[14:03:33] [@.task.AsyncTaskExecutor.lambda$executeNormalTask$19/TRACE] Executing task: org.jackhuang.hmcl.download.game.GameVerificationFixTask
+[14:03:34] [@.task.AsyncTaskExecutor.lambda$executeNormalTask$29/TRACE] Task finished: org.jackhuang.hmcl.download.game.GameVerificationFixTask
+[14:03:34] [@.task.AsyncTaskExecutor.lambda$executeNormalTask$29/TRACE] Task finished: org.jackhuang.hmcl.task.Task$UniCompose$$Lambda/0x0000021ba75614f8@252562d
+[14:03:34] [@.task.AsyncTaskExecutor.lambda$executeNormalTask$19/TRACE] Executing task: org.jackhuang.hmcl.task.Task$StageTask
+[14:03:34] [@.task.AsyncTaskExecutor.lambda$executeNormalTask$19/TRACE] Executing task: org.jackhuang.hmcl.game.LauncherHelper.logIn(LauncherHelper.java:643)
+[14:03:34] [@.task.AsyncTaskExecutor.lambda$executeCompletableFutureTask$10/TRACE] Executing task: org.jackhuang.hmcl.task.Task$4
+[14:03:34] [@.task.AsyncTaskExecutor.lambda$executeCompletableFutureTask$12/TRACE] Task finished: org.jackhuang.hmcl.task.Task$4
+[14:03:34] [@.task.AsyncTaskExecutor.lambda$executeNormalTask$29/TRACE] Task finished: org.jackhuang.hmcl.game.LauncherHelper.logIn(LauncherHelper.java:643)
+[14:03:34] [@.task.AsyncTaskExecutor.lambda$executeNormalTask$29/TRACE] Task finished: org.jackhuang.hmcl.task.Task$StageTask
+[14:03:34] [@.task.AsyncTaskExecutor.lambda$executeNormalTask$29/TRACE] Task finished: org.jackhuang.hmcl.task.Task$UniCompose$$Lambda/0x0000021ba75614f8@f14554
+[14:03:34] [@.task.AsyncTaskExecutor.lambda$executeNormalTask$19/TRACE] Executing task: org.jackhuang.hmcl.task.Task$StageTask
+[14:03:34] [@.task.AsyncTaskExecutor.lambda$executeNormalTask$19/TRACE] Executing task: 请耐心等待
+[14:03:34] [@.task.AsyncTaskExecutor.lambda$executeNormalTask$19/TRACE] Executing task: org.jackhuang.hmcl.game.LauncherHelper.lambda$launch0$15(LauncherHelper.java:214)
+[14:03:34] [@.task.AsyncTaskExecutor.lambda$executeNormalTask$19/TRACE] Executing task: org.jackhuang.hmcl.game.LauncherHelper$$Lambda/0x0000021ba757a228@6c854c74
+[14:03:34] [@.task.AsyncTaskExecutor.lambda$executeNormalTask$19/TRACE] Executing task: org.jackhuang.hmcl.game.LauncherHelper.lambda$launch0$15(LauncherHelper.java:190)
+[14:03:34] [@.game.LauncherHelper.lambda$launch0$8/INFO] Here's the structure of game mod directory:
+Filesystem structure of: .minecraft\mods
+|-> mods
+|  |-> 【3D皮肤】skinlayers3d-fabric-1.10.1-mc1.21.8.jar
+|  |-> 【REI】RoughlyEnoughItems-20.0.811-fabric.jar
+|  |-> 【一键整理】InventoryProfilesNext-fabric-1.21.6-2.2.2.jar
+|  |-> 【体素地图】voxelmap-fabric-1.21.8-1.15.7.jar
+|  |-> 【切换账号】authme-fabric-9.0.1+1.21.7.jar
+|  |-> 【前置】architectury-17.0.8-fabric.jar
+|  |-> 【前置】badpackets-fabric-0.9.0.jar
+|  |-> 【前置】cloth-config-19.0.147-fabric.jar
+|  |-> 【前置】fabric-api-0.136.1+1.21.8.jar
+|  |-> 【前置】fabric-language-kotlin-1.13.8+kotlin.2.3.0.jar
+|  |-> 【前置】ForgeConfigAPIPort-v21.8.2-1.21.8-Fabric.jar
+|  |-> 【前置】libIPN-fabric-1.21.6-6.6.2.jar
+|  |-> 【前置】malilib-fabric-1.21.8-0.25.7.jar
+|  |-> 【动态光源】lambdynamiclights-4.8.7+1.21.8.jar
+|  |-> 【变焦】zume-1.2.1.jar
+|  |-> 【录像回放】replaymod-1.21.7-2.6.23.jar
+|  |-> 【按键优化】too-many-shortcuts-0.0.14.jar
+|  |-> 【数格子】blockmeter-1.17-1.21.7.jar
+|  |-> 【更好的F3】BetterF3-15.0.0-Fabric-1.21.6.jar
+|  |-> 【更好的床】betterbeds-fabric-1.4.1.jar
+|  |-> 【模组菜单】modmenu-15.0.0.jar
+|  |-> 【物品滚轮】itemscroller-fabric-1.21.8-0.28.5.jar
+|  |-> 【现代UI】ModernUI-Fabric-1.21.8-3.12.0.4-universal.jar
+|  |-> 【看什么】wthit-fabric-16.0.4.jar
+|  |-> 【禁用举报】NoChatReports-FABRIC-1.21.8-v2.15.0.jar
+|  |-> 【美西螈桶】axolotl-item-fix-1.1.11.jar
+|  |-> 【耐久显示】DurabilityViewer-1.21.8-1.11.1.jar
+|  |-> 【聊天头像】chat_heads-0.14.2-fabric-1.21.6.jar
+|  |-> 【苹果皮】appleskin-fabric-mc1.21.6-3.0.6.jar
+|  |-> 【载入优化】LazyDFU-[UNOFFICIAL]-1.21.8.jar
+|  |-> 【输入法】IMBlocker-5.4.6-fabric+1.17-1.21.8.jar
+|  |-> 【连接纹理】continuity-3.0.1-beta.1+1.21.6.jar
+|  |-> 【迷你HUD】minihud-fabric-1.21.8-0.36.5.jar
+|  |-> 【钠】sodium-fabric-0.7.3+mc1.21.8.jar
+|  |-> 【钠光影】iris-fabric-1.9.6+mc1.21.8.jar
+|  |-> 【钠扩展】sodium-extra-fabric-0.7.0+mc1.21.8.jar
+|  |-> 【钠界面】reeses-sodium-options-fabric-1.8.4+mc1.21.6.jar
+|  |-> 【钠阴影】sodium-shadowy-path-blocks-fabric-5.0.1.jar
+|  |-> 【锂】lithium-fabric-0.18.1+mc1.21.8.jar
+|  |-> 【鼠标手势】MouseTweaks-fabric-mc1.21.6-2.28.jar
+[14:03:34] [@.task.AsyncTaskExecutor.lambda$executeNormalTask$29/TRACE] Task finished: org.jackhuang.hmcl.game.LauncherHelper.lambda$launch0$15(LauncherHelper.java:190)
+[14:03:34] [@.task.AsyncTaskExecutor.lambda$executeNormalTask$19/TRACE] Executing task: org.jackhuang.hmcl.game.LauncherHelper.lambda$launch0$10(LauncherHelper.java:207)
+[14:03:34] [@.game.LauncherHelper$HMCLProcessListener.setProcess/INFO] Launched process: "C:\\Program Files\\Java\\jdk-23\\bin\\java.exe" -Xmx3584m -Dfile.encoding=GB18030 -Dstdout.encoding=GB18030 -Dstderr.encoding=GB18030 -Djava.rmi.server.useCodebaseOnly=true -Dcom.sun.jndi.rmi.object.trustURLCodebase=false -Dcom.sun.jndi.cosnaming.object.trustURLCodebase=false -Dlog4j2.formatMsgNoLookups=true -Dlog4j.configurationFile=D:\项目\XMZ-JFServer-Client\.minecraft\versions\季落秋风客户端-v3.0.0\log4j2.xml -Dminecraft.client.jar=D:\项目\XMZ-JFServer-Client\.minecraft\versions\季落秋风客户端-v3.0.0\季落秋风客户端-v3.0.0.jar -Djava.net.useSystemProxiestrue -XX:+UnlockExperimentalVMOptions -XX:+UnlockDiagnosticVMOptions -XX:+UseG1GC -XX:G1MixedGCCountTarget=5 -XX:G1NewSizePercent=20 -XX:G1ReservePercent=20 -XX:MaxGCPauseMillis=50 -XX:G1HeapRegionSize=32m -XX:-OmitStackTraceInFastThrow -XX:-DontCompileHugeMethods -XX:MaxNodeLimit=240000 -XX:NodeLimitFudgeFactor=8000 -XX:TieredCompileTaskTimeout=10000 -XX:ReservedCodeCacheSize=400M -XX:NonNMethodCodeHeapSize=12M -XX:ProfiledCodeHeapSize=194M -XX:NmethodSweepActivity=1 -Dfml.ignoreInvalidMinecraftCertificates=true -Dfml.ignorePatchDiscrepancies=true -XX:HeapDumpPath=MojangTricksIntelDriversForPerformance_javaw.exe_minecraft.exe.heapdump -Djava.library.path=D:\项目\XMZ-JFServer-Client\.minecraft\versions\季落秋风客户端-v3.0.0\natives-windows-x86_64 -Djna.tmpdir=D:\项目\XMZ-JFServer-Client\.minecraft\versions\季落秋风客户端-v3.0.0\natives-windows-x86_64 -Dorg.lwjgl.system.SharedLibraryExtractPath=D:\项目\XMZ-JFServer-Client\.minecraft\versions\季落秋风客户端-v3.0.0\natives-windows-x86_64 -Dio.netty.native.workdir=D:\项目\XMZ-JFServer-Client\.minecraft\versions\季落秋风客户端-v3.0.0\natives-windows-x86_64 -Dminecraft.launcher.brand=HMCL -Dminecraft.launcher.version=3.8.2 -cp D:\项目\XMZ-JFServer-Client\.minecraft\libraries\org\ow2\asm\asm\9.9\asm-9.9.jar;D:\项目\XMZ-JFServer-Client\.minecraft\libraries\org\ow2\asm\asm-analysis\9.9\asm-analysis-9.9.jar;D:\项目\XMZ-JFServer-Client\.minecraft\libraries\org\ow2\asm\asm-commons\9.9\asm-commons-9.9.jar;D:\项目\XMZ-JFServer-Client\.minecraft\libraries\org\ow2\asm\asm-tree\9.9\asm-tree-9.9.jar;D:\项目\XMZ-JFServer-Client\.minecraft\libraries\org\ow2\asm\asm-util\9.9\asm-util-9.9.jar;D:\项目\XMZ-JFServer-Client\.minecraft\libraries\net\fabricmc\sponge-mixin\0.17.0+mixin.0.8.7\sponge-mixin-0.17.0+mixin.0.8.7.jar;D:\项目\XMZ-JFServer-Client\.minecraft\libraries\net\fabricmc\intermediary\1.21.8\intermediary-1.21.8.jar;D:\项目\XMZ-JFServer-Client\.minecraft\libraries\net\fabricmc\fabric-loader\0.18.4\fabric-loader-0.18.4.jar;D:\项目\XMZ-JFServer-Client\.minecraft\libraries\com\fasterxml\jackson\core\jackson-annotations\2.13.4\jackson-annotations-2.13.4.jar;D:\项目\XMZ-JFServer-Client\.minecraft\libraries\com\fasterxml\jackson\core\jackson-core\2.13.4\jackson-core-2.13.4.jar;D:\项目\XMZ-JFServer-Client\.minecraft\libraries\com\fasterxml\jackson\core\jackson-databind\2.13.4.2\jackson-databind-2.13.4.2.jar;D:\项目\XMZ-JFServer-Client\.minecraft\libraries\com\github\oshi\oshi-core\6.6.5\oshi-core-6.6.5.jar;D:\项目\XMZ-JFServer-Client\.minecraft\libraries\com\github\stephenc\jcip\jcip-annotations\1.0-1\jcip-annotations-1.0-1.jar;D:\项目\XMZ-JFServer-Client\.minecraft\libraries\com\google\code\gson\gson\2.11.0\gson-2.11.0.jar;D:\项目\XMZ-JFServer-Client\.minecraft\libraries\com\google\guava\failureaccess\1.0.2\failureaccess-1.0.2.jar;D:\项目\XMZ-JFServer-Client\.minecraft\libraries\com\google\guava\guava\33.3.1-jre\guava-33.3.1-jre.jar;D:\项目\XMZ-JFServer-Client\.minecraft\libraries\com\ibm\icu\icu4j\76.1\icu4j-76.1.jar;D:\项目\XMZ-JFServer-Client\.minecraft\libraries\com\microsoft\azure\msal4j\1.17.2\msal4j-1.17.2.jar;D:\项目\XMZ-JFServer-Client\.minecraft\libraries\com\mojang\authlib\6.0.58\authlib-6.0.58.jar;D:\项目\XMZ-JFServer-Client\.minecraft\libraries\com\mojang\blocklist\1.0.10\blocklist-1.0.10.jar;D:\项目\XMZ-JFServer-Client\.minecraft\libraries\com\mojang\brigadier\1.3.10\brigadier-1.3.10.jar;D:\项目\XMZ-JFServer-Client\.minecraft\libraries\com\mojang\datafixerupper\8.0.16\datafixerupper-8.0.16.jar;D:\项目\XMZ-JFServer-Client\.minecraft\libraries\com\mojang\jtracy\1.0.29\jtracy-1.0.29.jar;D:\项目\XMZ-JFServer-Client\.minecraft\libraries\com\mojang\jtracy\1.0.29\jtracy-1.0.29-natives-windows.jar;D:\项目\XMZ-JFServer-Client\.minecraft\libraries\com\mojang\logging\1.5.10\logging-1.5.10.jar;D:\项目\XMZ-JFServer-Client\.minecraft\libraries\com\mojang\patchy\2.2.10\patchy-2.2.10.jar;D:\项目\XMZ-JFServer-Client\.minecraft\libraries\com\mojang\text2speech\1.18.11\text2speech-1.18.11.jar;D:\项目\XMZ-JFServer-Client\.minecraft\libraries\com\nimbusds\content-type\2.3\content-type-2.3.jar;D:\项目\XMZ-JFServer-Client\.minecraft\libraries\com\nimbusds\lang-tag\1.7\lang-tag-1.7.jar;D:\项目\XMZ-JFServer-Client\.minecraft\libraries\com\nimbusds\nimbus-jose-jwt\9.40\nimbus-jose-jwt-9.40.jar;D:\项目\XMZ-JFServer-Client\.minecraft\libraries\com\nimbusds\oauth2-oidc-sdk\11.18\oauth2-oidc-sdk-11.18.jar;D:\项目\XMZ-JFServer-Client\.minecraft\libraries\commons-codec\commons-codec\1.17.1\commons-codec-1.17.1.jar;D:\项目\XMZ-JFServer-Client\.minecraft\libraries\commons-io\commons-io\2.17.0\commons-io-2.17.0.jar;D:\项目\XMZ-JFServer-Client\.minecraft\libraries\commons-logging\commons-logging\1.3.4\commons-logging-1.3.4.jar;D:\项目\XMZ-JFServer-Client\.minecraft\libraries\io\netty\netty-buffer\4.1.118.Final\netty-buffer-4.1.118.Final.jar;D:\项目\XMZ-JFServer-Client\.minecraft\libraries\io\netty\netty-codec\4.1.118.Final\netty-codec-4.1.118.Final.jar;D:\项目\XMZ-JFServer-Client\.minecraft\libraries\io\netty\netty-common\4.1.118.Final\netty-common-4.1.118.Final.jar;D:\项目\XMZ-JFServer-Client\.minecraft\libraries\io\netty\netty-handler\4.1.118.Final\netty-handler-4.1.118.Final.jar;D:\项目\XMZ-JFServer-Client\.minecraft\libraries\io\netty\netty-resolver\4.1.118.Final\netty-resolver-4.1.118.Final.jar;D:\项目\XMZ-JFServer-Client\.minecraft\libraries\io\netty\netty-transport-classes-epoll\4.1.118.Final\netty-transport-classes-epoll-4.1.118.Final.jar;D:\项目\XMZ-JFServer-Client\.minecraft\libraries\io\netty\netty-transport-native-unix-common\4.1.118.Final\netty-transport-native-unix-common-4.1.118.Final.jar;D:\项目\XMZ-JFServer-Client\.minecraft\libraries\io\netty\netty-transport\4.1.118.Final\netty-transport-4.1.118.Final.jar;D:\项目\XMZ-JFServer-Client\.minecraft\libraries\it\unimi\dsi\fastutil\8.5.15\fastutil-8.5.15.jar;D:\项目\XMZ-JFServer-Client\.minecraft\libraries\net\java\dev\jna\jna-platform\5.15.0\jna-platform-5.15.0.jar;D:\项目\XMZ-JFServer-Client\.minecraft\libraries\net\java\dev\jna\jna\5.15.0\jna-5.15.0.jar;D:\项目\XMZ-JFServer-Client\.minecraft\libraries\net\minidev\accessors-smart\2.5.1\accessors-smart-2.5.1.jar;D:\项目\XMZ-JFServer-Client\.minecraft\libraries\net\minidev\json-smart\2.5.1\json-smart-2.5.1.jar;D:\项目\XMZ-JFServer-Client\.minecraft\libraries\net\sf\jopt-simple\jopt-simple\5.0.4\jopt-simple-5.0.4.jar;D:\项目\XMZ-JFServer-Client\.minecraft\libraries\org\apache\commons\commons-compress\1.27.1\commons-compress-1.27.1.jar;D:\项目\XMZ-JFServer-Client\.minecraft\libraries\org\apache\commons\commons-lang3\3.17.0\commons-lang3-3.17.0.jar;D:\项目\XMZ-JFServer-Client\.minecraft\libraries\org\apache\httpcomponents\httpclient\4.5.14\httpclient-4.5.14.jar;D:\项目\XMZ-JFServer-Client\.minecraft\libraries\org\apache\httpcomponents\httpcore\4.4.16\httpcore-4.4.16.jar;D:\项目\XMZ-JFServer-Client\.minecraft\libraries\org\apache\logging\log4j\log4j-api\2.24.1\log4j-api-2.24.1.jar;D:\项目\XMZ-JFServer-Client\.minecraft\libraries\org\apache\logging\log4j\log4j-core\2.24.1\log4j-core-2.24.1.jar;D:\项目\XMZ-JFServer-Client\.minecraft\libraries\org\apache\logging\log4j\log4j-slf4j2-impl\2.24.1\log4j-slf4j2-impl-2.24.1.jar;D:\项目\XMZ-JFServer-Client\.minecraft\libraries\org\jcraft\jorbis\0.0.17\jorbis-0.0.17.jar;D:\项目\XMZ-JFServer-Client\.minecraft\libraries\org\joml\joml\1.10.8\joml-1.10.8.jar;D:\项目\XMZ-JFServer-Client\.minecraft\libraries\org\lwjgl\lwjgl-freetype\3.3.3\lwjgl-freetype-3.3.3.jar;D:\项目\XMZ-JFServer-Client\.minecraft\libraries\org\lwjgl\lwjgl-freetype\3.3.3\lwjgl-freetype-3.3.3-natives-windows.jar;D:\项目\XMZ-JFServer-Client\.minecraft\libraries\org\lwjgl\lwjgl-freetype\3.3.3\lwjgl-freetype-3.3.3-natives-windows-arm64.jar;D:\项目\XMZ-JFServer-Client\.minecraft\libraries\org\lwjgl\lwjgl-freetype\3.3.3\lwjgl-freetype-3.3.3-natives-windows-x86.jar;D:\项目\XMZ-JFServer-Client\.minecraft\libraries\org\lwjgl\lwjgl-glfw\3.3.3\lwjgl-glfw-3.3.3.jar;D:\项目\XMZ-JFServer-Client\.minecraft\libraries\org\lwjgl\lwjgl-glfw\3.3.3\lwjgl-glfw-3.3.3-natives-windows.jar;D:\项目\XMZ-JFServer-Client\.minecraft\libraries\org\lwjgl\lwjgl-glfw\3.3.3\lwjgl-glfw-3.3.3-natives-windows-arm64.jar;D:\项目\XMZ-JFServer-Client\.minecraft\libraries\org\lwjgl\lwjgl-glfw\3.3.3\lwjgl-glfw-3.3.3-natives-windows-x86.jar;D:\项目\XMZ-JFServer-Client\.minecraft\libraries\org\lwjgl\lwjgl-jemalloc\3.3.3\lwjgl-jemalloc-3.3.3.jar;D:\项目\XMZ-JFServer-Client\.minecraft\libraries\org\lwjgl\lwjgl-jemalloc\3.3.3\lwjgl-jemalloc-3.3.3-natives-windows.jar;D:\项目\XMZ-JFServer-Client\.minecraft\libraries\org\lwjgl\lwjgl-jemalloc\3.3.3\lwjgl-jemalloc-3.3.3-natives-windows-arm64.jar;D:\项目\XMZ-JFServer-Client\.minecraft\libraries\org\lwjgl\lwjgl-jemalloc\3.3.3\lwjgl-jemalloc-3.3.3-natives-windows-x86.jar;D:\项目\XMZ-JFServer-Client\.minecraft\libraries\org\lwjgl\lwjgl-openal\3.3.3\lwjgl-openal-3.3.3.jar;D:\项目\XMZ-JFServer-Client\.minecraft\libraries\org\lwjgl\lwjgl-openal\3.3.3\lwjgl-openal-3.3.3-natives-windows.jar;D:\项目\XMZ-JFServer-Client\.minecraft\libraries\org\lwjgl\lwjgl-openal\3.3.3\lwjgl-openal-3.3.3-natives-windows-arm64.jar;D:\项目\XMZ-JFServer-Client\.minecraft\libraries\org\lwjgl\lwjgl-openal\3.3.3\lwjgl-openal-3.3.3-natives-windows-x86.jar;D:\项目\XMZ-JFServer-Client\.minecraft\libraries\org\lwjgl\lwjgl-opengl\3.3.3\lwjgl-opengl-3.3.3.jar;D:\项目\XMZ-JFServer-Client\.minecraft\libraries\org\lwjgl\lwjgl-opengl\3.3.3\lwjgl-opengl-3.3.3-natives-windows.jar;D:\项目\XMZ-JFServer-Client\.minecraft\libraries\org\lwjgl\lwjgl-opengl\3.3.3\lwjgl-opengl-3.3.3-natives-windows-arm64.jar;D:\项目\XMZ-JFServer-Client\.minecraft\libraries\org\lwjgl\lwjgl-opengl\3.3.3\lwjgl-opengl-3.3.3-natives-windows-x86.jar;D:\项目\XMZ-JFServer-Client\.minecraft\libraries\org\lwjgl\lwjgl-stb\3.3.3\lwjgl-stb-3.3.3.jar;D:\项目\XMZ-JFServer-Client\.minecraft\libraries\org\lwjgl\lwjgl-stb\3.3.3\lwjgl-stb-3.3.3-natives-windows.jar;D:\项目\XMZ-JFServer-Client\.minecraft\libraries\org\lwjgl\lwjgl-stb\3.3.3\lwjgl-stb-3.3.3-natives-windows-arm64.jar;D:\项目\XMZ-JFServer-Client\.minecraft\libraries\org\lwjgl\lwjgl-stb\3.3.3\lwjgl-stb-3.3.3-natives-windows-x86.jar;D:\项目\XMZ-JFServer-Client\.minecraft\libraries\org\lwjgl\lwjgl-tinyfd\3.3.3\lwjgl-tinyfd-3.3.3.jar;D:\项目\XMZ-JFServer-Client\.minecraft\libraries\org\lwjgl\lwjgl-tinyfd\3.3.3\lwjgl-tinyfd-3.3.3-natives-windows.jar;D:\项目\XMZ-JFServer-Client\.minecraft\libraries\org\lwjgl\lwjgl-tinyfd\3.3.3\lwjgl-tinyfd-3.3.3-natives-windows-arm64.jar;D:\项目\XMZ-JFServer-Client\.minecraft\libraries\org\lwjgl\lwjgl-tinyfd\3.3.3\lwjgl-tinyfd-3.3.3-natives-windows-x86.jar;D:\项目\XMZ-JFServer-Client\.minecraft\libraries\org\lwjgl\lwjgl\3.3.3\lwjgl-3.3.3.jar;D:\项目\XMZ-JFServer-Client\.minecraft\libraries\org\lwjgl\lwjgl\3.3.3\lwjgl-3.3.3-natives-windows.jar;D:\项目\XMZ-JFServer-Client\.minecraft\libraries\org\lwjgl\lwjgl\3.3.3\lwjgl-3.3.3-natives-windows-arm64.jar;D:\项目\XMZ-JFServer-Client\.minecraft\libraries\org\lwjgl\lwjgl\3.3.3\lwjgl-3.3.3-natives-windows-x86.jar;D:\项目\XMZ-JFServer-Client\.minecraft\libraries\org\lz4\lz4-java\1.8.0\lz4-java-1.8.0.jar;D:\项目\XMZ-JFServer-Client\.minecraft\libraries\org\slf4j\slf4j-api\2.0.16\slf4j-api-2.0.16.jar;D:\项目\XMZ-JFServer-Client\.minecraft\versions\季落秋风客户端-v3.0.0\季落秋风客户端-v3.0.0.jar net.fabricmc.loader.impl.launch.knot.KnotClient --username FengMu_233 --version 季落秋风客户端-v3.0.0 --gameDir D:\项目\XMZ-JFServer-Client\.minecraft --assetsDir D:\项目\XMZ-JFServer-Client\.minecraft\assets --assetIndex 26 --uuid 5feac7f36b2340968e54ff9b24df6f8e --accessToken <access token> --clientId ${clientid} --xuid ${auth_xuid} --userType msa --versionType "HMCL 3.8.2" --width 854 --height 480
+[14:03:34] [@.task.AsyncTaskExecutor.lambda$executeNormalTask$29/TRACE] Task finished: org.jackhuang.hmcl.game.LauncherHelper.lambda$launch0$10(LauncherHelper.java:207)
+[14:03:34] [@.task.AsyncTaskExecutor.lambda$executeNormalTask$29/TRACE] Task finished: org.jackhuang.hmcl.game.LauncherHelper$$Lambda/0x0000021ba757a228@6c854c74
+[14:03:34] [@.task.AsyncTaskExecutor.lambda$executeNormalTask$29/TRACE] Task finished: org.jackhuang.hmcl.game.LauncherHelper.lambda$launch0$15(LauncherHelper.java:214)
+[14:03:38] [@.upgrade.UpdateChecker.lambda$requestCheckUpdate$2/INFO] Latest version (STABLE, preview=false) is [3.8.2 from https://hmcl.glavo.site/download/HMCL-3.8.2.jar]
+[14:03:56] [@.task.AsyncTaskExecutor.lambda$executeNormalTask$29/TRACE] Task finished: 请耐心等待
+[14:03:56] [@.task.AsyncTaskExecutor.lambda$executeNormalTask$29/TRACE] Task finished: org.jackhuang.hmcl.task.Task$StageTask
+[14:03:56] [@.task.AsyncTaskExecutor.lambda$executeNormalTask$29/TRACE] Task finished: org.jackhuang.hmcl.game.LauncherHelper$$Lambda/0x0000021ba7561958@15102da
+[14:03:56] [@.task.AsyncTaskExecutor.lambda$executeNormalTask$29/TRACE] Task finished: org.jackhuang.hmcl.task.Task$StagesHintTask
+[14:03:56] [@.ui.construct.JFXDialogPane.pop/INFO] JFXDialogPane@2b45c5f [], removed: true, object: TaskExecutorDialogPane@795f863e
+[14:09:25] [@.event.EventBus.fireEvent/INFO] ProcessStoppedEvent [source=org.jackhuang.hmcl.launch.ExitWaiter@182aa0a4] gets fired
+[14:09:36] [@.game.LauncherHelper.launch/INFO] Launching game version: 季落秋风客户端-v3.0.0
+[14:09:36] [@.ui.construct.JFXDialogPane.push/INFO] JFXDialogPane@2cd389e [TaskExecutorDialogPane@741d6751]
+[14:09:36] [@.task.AsyncTaskExecutor.lambda$executeNormalTask$19/TRACE] Executing task: org.jackhuang.hmcl.task.Task$StagesHintTask
+[14:09:36] [@.task.AsyncTaskExecutor.lambda$executeNormalTask$19/TRACE] Executing task: org.jackhuang.hmcl.game.LauncherHelper$$Lambda/0x0000021ba7561958@e897d9a
+[14:09:36] [@.task.AsyncTaskExecutor.lambda$executeNormalTask$19/TRACE] Executing task: org.jackhuang.hmcl.task.Task$UniCompose$$Lambda/0x0000021ba75614f8@79473948
+[14:09:36] [@.task.AsyncTaskExecutor.lambda$executeNormalTask$19/TRACE] Executing task: org.jackhuang.hmcl.task.Task$UniCompose$$Lambda/0x0000021ba75614f8@723bdb12
+[14:09:36] [@.task.AsyncTaskExecutor.lambda$executeNormalTask$19/TRACE] Executing task: org.jackhuang.hmcl.task.Task$StageTask
+[14:09:36] [@.task.AsyncTaskExecutor.lambda$executeNormalTask$19/TRACE] Executing task: org.jackhuang.hmcl.game.LauncherHelper$$Lambda/0x0000021ba7561098@8ae6c18
+[14:09:36] [@.task.AsyncTaskExecutor.lambda$executeNormalTask$19/TRACE] Executing task: org.jackhuang.hmcl.task.Task$StageTask
+[14:09:36] [@.task.AsyncTaskExecutor.lambda$executeNormalTask$19/TRACE] Executing task: org.jackhuang.hmcl.game.LauncherHelper$$Lambda/0x0000021ba7560e70@1a2da298
+[14:09:36] [@.task.AsyncTaskExecutor.lambda$executeNormalTask$19/TRACE] Executing task: org.jackhuang.hmcl.game.LauncherHelper.checkGameState(LauncherHelper.java:346)
+[14:09:36] [@.task.AsyncTaskExecutor.lambda$executeNormalTask$29/TRACE] Task finished: org.jackhuang.hmcl.game.LauncherHelper.checkGameState(LauncherHelper.java:346)
+[14:09:36] [@.task.AsyncTaskExecutor.lambda$executeCompletableFutureTask$10/TRACE] Executing task: org.jackhuang.hmcl.task.Task$4
+[14:09:36] [@.task.AsyncTaskExecutor.lambda$executeCompletableFutureTask$12/TRACE] Task finished: org.jackhuang.hmcl.task.Task$4
+[14:09:36] [@.task.AsyncTaskExecutor.lambda$executeNormalTask$29/TRACE] Task finished: org.jackhuang.hmcl.game.LauncherHelper$$Lambda/0x0000021ba7560e70@1a2da298
+[14:09:36] [@.task.AsyncTaskExecutor.lambda$executeNormalTask$29/TRACE] Task finished: org.jackhuang.hmcl.task.Task$StageTask
+[14:09:36] [@.task.AsyncTaskExecutor.lambda$executeNormalTask$19/TRACE] Executing task: org.jackhuang.hmcl.game.LauncherHelper.lambda$launch0$4(LauncherHelper.java:161)
+[14:09:36] [@.task.AsyncTaskExecutor.lambda$executeNormalTask$29/TRACE] Task finished: org.jackhuang.hmcl.game.LauncherHelper.lambda$launch0$4(LauncherHelper.java:161)
+[14:09:36] [@.task.AsyncTaskExecutor.lambda$executeNormalTask$19/TRACE] Executing task: org.jackhuang.hmcl.task.Task$UniCompose$$Lambda/0x0000021ba75614f8@23bdee15
+[14:09:36] [@.task.AsyncTaskExecutor.lambda$executeNormalTask$19/TRACE] Executing task: org.jackhuang.hmcl.game.LauncherHelper.lambda$launch0$4(LauncherHelper.java:151)
+[14:09:36] [@.task.AsyncTaskExecutor.lambda$executeNormalTask$19/TRACE] Executing task: org.jackhuang.hmcl.download.DefaultDependencyManager.checkGameCompletionAsync(DefaultDependencyManager.java:83)
+[14:09:36] [@.task.AsyncTaskExecutor.lambda$executeNormalTask$19/TRACE] Executing task: org.jackhuang.hmcl.download.game.GameLibrariesTask
+[14:09:36] [@.task.AsyncTaskExecutor.lambda$executeNormalTask$19/TRACE] Executing task: org.jackhuang.hmcl.download.game.GameAssetDownloadTask
+[14:09:36] [@.task.AsyncTaskExecutor.lambda$executeNormalTask$19/TRACE] Executing task: org.jackhuang.hmcl.download.game.GameAssetIndexDownloadTask
+[14:09:36] [@.task.AsyncTaskExecutor.lambda$executeNormalTask$29/TRACE] Task finished: org.jackhuang.hmcl.game.LauncherHelper.lambda$launch0$4(LauncherHelper.java:151)
+[14:09:36] [@.task.AsyncTaskExecutor.lambda$executeNormalTask$29/TRACE] Task finished: org.jackhuang.hmcl.download.DefaultDependencyManager.checkGameCompletionAsync(DefaultDependencyManager.java:83)
+[14:09:36] [@.task.AsyncTaskExecutor.lambda$executeNormalTask$19/TRACE] Executing task: org.jackhuang.hmcl.download.DefaultDependencyManager.checkPatchCompletionAsync(DefaultDependencyManager.java:103)
+[14:09:36] [@.task.AsyncTaskExecutor.lambda$executeNormalTask$29/TRACE] Task finished: org.jackhuang.hmcl.download.DefaultDependencyManager.checkPatchCompletionAsync(DefaultDependencyManager.java:103)
+[14:09:36] [@.task.AsyncTaskExecutor.lambda$executeNormalTask$29/TRACE] Task finished: org.jackhuang.hmcl.task.Task$UniCompose$$Lambda/0x0000021ba75614f8@23bdee15
+[14:09:36] [@.task.AsyncTaskExecutor.lambda$executeNormalTask$29/TRACE] Task finished: org.jackhuang.hmcl.download.game.GameLibrariesTask
+[14:09:36] [@.task.AsyncTaskExecutor.lambda$executeNormalTask$29/TRACE] Task finished: org.jackhuang.hmcl.download.game.GameAssetIndexDownloadTask
+[14:09:37] [@.task.AsyncTaskExecutor.lambda$executeNormalTask$29/TRACE] Task finished: org.jackhuang.hmcl.download.game.GameAssetDownloadTask
+[14:09:37] [@.task.AsyncTaskExecutor.lambda$executeNormalTask$29/TRACE] Task finished: org.jackhuang.hmcl.game.LauncherHelper$$Lambda/0x0000021ba7561098@8ae6c18
+[14:09:37] [@.task.AsyncTaskExecutor.lambda$executeNormalTask$29/TRACE] Task finished: org.jackhuang.hmcl.task.Task$StageTask
+[14:09:37] [@.task.AsyncTaskExecutor.lambda$executeNormalTask$19/TRACE] Executing task: org.jackhuang.hmcl.download.game.GameVerificationFixTask
+[14:09:37] [@.task.AsyncTaskExecutor.lambda$executeNormalTask$29/TRACE] Task finished: org.jackhuang.hmcl.download.game.GameVerificationFixTask
+[14:09:37] [@.task.AsyncTaskExecutor.lambda$executeNormalTask$29/TRACE] Task finished: org.jackhuang.hmcl.task.Task$UniCompose$$Lambda/0x0000021ba75614f8@723bdb12
+[14:09:37] [@.task.AsyncTaskExecutor.lambda$executeNormalTask$19/TRACE] Executing task: org.jackhuang.hmcl.task.Task$StageTask
+[14:09:37] [@.task.AsyncTaskExecutor.lambda$executeNormalTask$19/TRACE] Executing task: org.jackhuang.hmcl.game.LauncherHelper.logIn(LauncherHelper.java:643)
+[14:09:37] [@.task.AsyncTaskExecutor.lambda$executeCompletableFutureTask$10/TRACE] Executing task: org.jackhuang.hmcl.task.Task$4
+[14:09:37] [@.task.AsyncTaskExecutor.lambda$executeCompletableFutureTask$12/TRACE] Task finished: org.jackhuang.hmcl.task.Task$4
+[14:09:37] [@.task.AsyncTaskExecutor.lambda$executeNormalTask$29/TRACE] Task finished: org.jackhuang.hmcl.game.LauncherHelper.logIn(LauncherHelper.java:643)
+[14:09:37] [@.task.AsyncTaskExecutor.lambda$executeNormalTask$29/TRACE] Task finished: org.jackhuang.hmcl.task.Task$StageTask
+[14:09:37] [@.task.AsyncTaskExecutor.lambda$executeNormalTask$29/TRACE] Task finished: org.jackhuang.hmcl.task.Task$UniCompose$$Lambda/0x0000021ba75614f8@79473948
+[14:09:37] [@.task.AsyncTaskExecutor.lambda$executeNormalTask$19/TRACE] Executing task: org.jackhuang.hmcl.task.Task$StageTask
+[14:09:37] [@.task.AsyncTaskExecutor.lambda$executeNormalTask$19/TRACE] Executing task: 请耐心等待
+[14:09:37] [@.task.AsyncTaskExecutor.lambda$executeNormalTask$19/TRACE] Executing task: org.jackhuang.hmcl.game.LauncherHelper.lambda$launch0$15(LauncherHelper.java:214)
+[14:09:37] [@.task.AsyncTaskExecutor.lambda$executeNormalTask$19/TRACE] Executing task: org.jackhuang.hmcl.game.LauncherHelper$$Lambda/0x0000021ba757a228@10799193
+[14:09:37] [@.task.AsyncTaskExecutor.lambda$executeNormalTask$19/TRACE] Executing task: org.jackhuang.hmcl.game.LauncherHelper.lambda$launch0$15(LauncherHelper.java:190)
+[14:09:37] [@.game.LauncherHelper.lambda$launch0$8/INFO] Here's the structure of game mod directory:
+Filesystem structure of: .minecraft\mods
+|-> mods
+|  |-> 【3D皮肤】skinlayers3d-fabric-1.10.1-mc1.21.8.jar
+|  |-> 【REI】RoughlyEnoughItems-20.0.811-fabric.jar
+|  |-> 【一键整理】InventoryProfilesNext-fabric-1.21.6-2.2.2.jar
+|  |-> 【优化按键】too-many-shortcuts-0.0.14.jar
+|  |-> 【优化载入】LazyDFU-[UNOFFICIAL]-1.21.8.jar
+|  |-> 【体素地图】voxelmap-fabric-1.21.8-1.15.7.jar
+|  |-> 【修复】debugify-1.21.8+1.0.jar
+|  |-> 【切换账号】authme-fabric-9.0.1+1.21.7.jar
+|  |-> 【前置】architectury-17.0.8-fabric.jar
+|  |-> 【前置】badpackets-fabric-0.9.0.jar
+|  |-> 【前置】cloth-config-19.0.147-fabric.jar
+|  |-> 【前置】fabric-api-0.136.1+1.21.8.jar
+|  |-> 【前置】fabric-language-kotlin-1.13.8+kotlin.2.3.0.jar
+|  |-> 【前置】ForgeConfigAPIPort-v21.8.2-1.21.8-Fabric.jar
+|  |-> 【前置】libIPN-fabric-1.21.6-6.6.2.jar
+|  |-> 【前置】malilib-fabric-1.21.8-0.25.7.jar
+|  |-> 【动态光源】lambdynamiclights-4.8.7+1.21.8.jar
+|  |-> 【变焦】zume-1.2.1.jar
+|  |-> 【录像回放】replaymod-1.21.7-2.6.23.jar
+|  |-> 【数格子】blockmeter-1.17-1.21.7.jar
+|  |-> 【更好的F3】BetterF3-15.0.0-Fabric-1.21.6.jar
+|  |-> 【更好的床】betterbeds-fabric-1.4.1.jar
+|  |-> 【模组菜单】modmenu-15.0.0.jar
+|  |-> 【物品滚轮】itemscroller-fabric-1.21.8-0.28.5.jar
+|  |-> 【现代UI】ModernUI-Fabric-1.21.8-3.12.0.4-universal.jar
+|  |-> 【看什么】wthit-fabric-16.0.4.jar
+|  |-> 【禁用举报】NoChatReports-FABRIC-1.21.8-v2.15.0.jar
+|  |-> 【美西螈桶】axolotl-item-fix-1.1.11.jar
+|  |-> 【耐久显示】DurabilityViewer-1.21.8-1.11.1.jar
+|  |-> 【聊天头像】chat_heads-0.14.2-fabric-1.21.6.jar
+|  |-> 【苹果皮】appleskin-fabric-mc1.21.6-3.0.6.jar
+|  |-> 【输入法】IMBlocker-5.4.6-fabric+1.17-1.21.8.jar
+|  |-> 【连接纹理】continuity-3.0.1-beta.1+1.21.6.jar
+|  |-> 【迷你HUD】minihud-fabric-1.21.8-0.36.5.jar
+|  |-> 【钠】sodium-fabric-0.7.3+mc1.21.8.jar
+|  |-> 【钠光影】iris-fabric-1.9.6+mc1.21.8.jar
+|  |-> 【钠扩展】sodium-extra-fabric-0.7.0+mc1.21.8.jar
+|  |-> 【钠界面】reeses-sodium-options-fabric-1.8.4+mc1.21.6.jar
+|  |-> 【钠阴影】sodium-shadowy-path-blocks-fabric-5.0.1.jar
+|  |-> 【锂】lithium-fabric-0.18.1+mc1.21.8.jar
+|  |-> 【鼠标手势】MouseTweaks-fabric-mc1.21.6-2.28.jar
+[14:09:37] [@.task.AsyncTaskExecutor.lambda$executeNormalTask$29/TRACE] Task finished: org.jackhuang.hmcl.game.LauncherHelper.lambda$launch0$15(LauncherHelper.java:190)
+[14:09:37] [@.task.AsyncTaskExecutor.lambda$executeNormalTask$19/TRACE] Executing task: org.jackhuang.hmcl.game.LauncherHelper.lambda$launch0$10(LauncherHelper.java:207)
+[14:09:37] [@.game.LauncherHelper$HMCLProcessListener.setProcess/INFO] Launched process: "C:\\Program Files\\Java\\jdk-23\\bin\\java.exe" -Xmx3584m -Dfile.encoding=GB18030 -Dstdout.encoding=GB18030 -Dstderr.encoding=GB18030 -Djava.rmi.server.useCodebaseOnly=true -Dcom.sun.jndi.rmi.object.trustURLCodebase=false -Dcom.sun.jndi.cosnaming.object.trustURLCodebase=false -Dlog4j2.formatMsgNoLookups=true -Dlog4j.configurationFile=D:\项目\XMZ-JFServer-Client\.minecraft\versions\季落秋风客户端-v3.0.0\log4j2.xml -Dminecraft.client.jar=D:\项目\XMZ-JFServer-Client\.minecraft\versions\季落秋风客户端-v3.0.0\季落秋风客户端-v3.0.0.jar -Djava.net.useSystemProxiestrue -XX:+UnlockExperimentalVMOptions -XX:+UnlockDiagnosticVMOptions -XX:+UseG1GC -XX:G1MixedGCCountTarget=5 -XX:G1NewSizePercent=20 -XX:G1ReservePercent=20 -XX:MaxGCPauseMillis=50 -XX:G1HeapRegionSize=32m -XX:-OmitStackTraceInFastThrow -XX:-DontCompileHugeMethods -XX:MaxNodeLimit=240000 -XX:NodeLimitFudgeFactor=8000 -XX:TieredCompileTaskTimeout=10000 -XX:ReservedCodeCacheSize=400M -XX:NonNMethodCodeHeapSize=12M -XX:ProfiledCodeHeapSize=194M -XX:NmethodSweepActivity=1 -Dfml.ignoreInvalidMinecraftCertificates=true -Dfml.ignorePatchDiscrepancies=true -XX:HeapDumpPath=MojangTricksIntelDriversForPerformance_javaw.exe_minecraft.exe.heapdump -Djava.library.path=D:\项目\XMZ-JFServer-Client\.minecraft\versions\季落秋风客户端-v3.0.0\natives-windows-x86_64 -Djna.tmpdir=D:\项目\XMZ-JFServer-Client\.minecraft\versions\季落秋风客户端-v3.0.0\natives-windows-x86_64 -Dorg.lwjgl.system.SharedLibraryExtractPath=D:\项目\XMZ-JFServer-Client\.minecraft\versions\季落秋风客户端-v3.0.0\natives-windows-x86_64 -Dio.netty.native.workdir=D:\项目\XMZ-JFServer-Client\.minecraft\versions\季落秋风客户端-v3.0.0\natives-windows-x86_64 -Dminecraft.launcher.brand=HMCL -Dminecraft.launcher.version=3.8.2 -cp D:\项目\XMZ-JFServer-Client\.minecraft\libraries\org\ow2\asm\asm\9.9\asm-9.9.jar;D:\项目\XMZ-JFServer-Client\.minecraft\libraries\org\ow2\asm\asm-analysis\9.9\asm-analysis-9.9.jar;D:\项目\XMZ-JFServer-Client\.minecraft\libraries\org\ow2\asm\asm-commons\9.9\asm-commons-9.9.jar;D:\项目\XMZ-JFServer-Client\.minecraft\libraries\org\ow2\asm\asm-tree\9.9\asm-tree-9.9.jar;D:\项目\XMZ-JFServer-Client\.minecraft\libraries\org\ow2\asm\asm-util\9.9\asm-util-9.9.jar;D:\项目\XMZ-JFServer-Client\.minecraft\libraries\net\fabricmc\sponge-mixin\0.17.0+mixin.0.8.7\sponge-mixin-0.17.0+mixin.0.8.7.jar;D:\项目\XMZ-JFServer-Client\.minecraft\libraries\net\fabricmc\intermediary\1.21.8\intermediary-1.21.8.jar;D:\项目\XMZ-JFServer-Client\.minecraft\libraries\net\fabricmc\fabric-loader\0.18.4\fabric-loader-0.18.4.jar;D:\项目\XMZ-JFServer-Client\.minecraft\libraries\com\fasterxml\jackson\core\jackson-annotations\2.13.4\jackson-annotations-2.13.4.jar;D:\项目\XMZ-JFServer-Client\.minecraft\libraries\com\fasterxml\jackson\core\jackson-core\2.13.4\jackson-core-2.13.4.jar;D:\项目\XMZ-JFServer-Client\.minecraft\libraries\com\fasterxml\jackson\core\jackson-databind\2.13.4.2\jackson-databind-2.13.4.2.jar;D:\项目\XMZ-JFServer-Client\.minecraft\libraries\com\github\oshi\oshi-core\6.6.5\oshi-core-6.6.5.jar;D:\项目\XMZ-JFServer-Client\.minecraft\libraries\com\github\stephenc\jcip\jcip-annotations\1.0-1\jcip-annotations-1.0-1.jar;D:\项目\XMZ-JFServer-Client\.minecraft\libraries\com\google\code\gson\gson\2.11.0\gson-2.11.0.jar;D:\项目\XMZ-JFServer-Client\.minecraft\libraries\com\google\guava\failureaccess\1.0.2\failureaccess-1.0.2.jar;D:\项目\XMZ-JFServer-Client\.minecraft\libraries\com\google\guava\guava\33.3.1-jre\guava-33.3.1-jre.jar;D:\项目\XMZ-JFServer-Client\.minecraft\libraries\com\ibm\icu\icu4j\76.1\icu4j-76.1.jar;D:\项目\XMZ-JFServer-Client\.minecraft\libraries\com\microsoft\azure\msal4j\1.17.2\msal4j-1.17.2.jar;D:\项目\XMZ-JFServer-Client\.minecraft\libraries\com\mojang\authlib\6.0.58\authlib-6.0.58.jar;D:\项目\XMZ-JFServer-Client\.minecraft\libraries\com\mojang\blocklist\1.0.10\blocklist-1.0.10.jar;D:\项目\XMZ-JFServer-Client\.minecraft\libraries\com\mojang\brigadier\1.3.10\brigadier-1.3.10.jar;D:\项目\XMZ-JFServer-Client\.minecraft\libraries\com\mojang\datafixerupper\8.0.16\datafixerupper-8.0.16.jar;D:\项目\XMZ-JFServer-Client\.minecraft\libraries\com\mojang\jtracy\1.0.29\jtracy-1.0.29.jar;D:\项目\XMZ-JFServer-Client\.minecraft\libraries\com\mojang\jtracy\1.0.29\jtracy-1.0.29-natives-windows.jar;D:\项目\XMZ-JFServer-Client\.minecraft\libraries\com\mojang\logging\1.5.10\logging-1.5.10.jar;D:\项目\XMZ-JFServer-Client\.minecraft\libraries\com\mojang\patchy\2.2.10\patchy-2.2.10.jar;D:\项目\XMZ-JFServer-Client\.minecraft\libraries\com\mojang\text2speech\1.18.11\text2speech-1.18.11.jar;D:\项目\XMZ-JFServer-Client\.minecraft\libraries\com\nimbusds\content-type\2.3\content-type-2.3.jar;D:\项目\XMZ-JFServer-Client\.minecraft\libraries\com\nimbusds\lang-tag\1.7\lang-tag-1.7.jar;D:\项目\XMZ-JFServer-Client\.minecraft\libraries\com\nimbusds\nimbus-jose-jwt\9.40\nimbus-jose-jwt-9.40.jar;D:\项目\XMZ-JFServer-Client\.minecraft\libraries\com\nimbusds\oauth2-oidc-sdk\11.18\oauth2-oidc-sdk-11.18.jar;D:\项目\XMZ-JFServer-Client\.minecraft\libraries\commons-codec\commons-codec\1.17.1\commons-codec-1.17.1.jar;D:\项目\XMZ-JFServer-Client\.minecraft\libraries\commons-io\commons-io\2.17.0\commons-io-2.17.0.jar;D:\项目\XMZ-JFServer-Client\.minecraft\libraries\commons-logging\commons-logging\1.3.4\commons-logging-1.3.4.jar;D:\项目\XMZ-JFServer-Client\.minecraft\libraries\io\netty\netty-buffer\4.1.118.Final\netty-buffer-4.1.118.Final.jar;D:\项目\XMZ-JFServer-Client\.minecraft\libraries\io\netty\netty-codec\4.1.118.Final\netty-codec-4.1.118.Final.jar;D:\项目\XMZ-JFServer-Client\.minecraft\libraries\io\netty\netty-common\4.1.118.Final\netty-common-4.1.118.Final.jar;D:\项目\XMZ-JFServer-Client\.minecraft\libraries\io\netty\netty-handler\4.1.118.Final\netty-handler-4.1.118.Final.jar;D:\项目\XMZ-JFServer-Client\.minecraft\libraries\io\netty\netty-resolver\4.1.118.Final\netty-resolver-4.1.118.Final.jar;D:\项目\XMZ-JFServer-Client\.minecraft\libraries\io\netty\netty-transport-classes-epoll\4.1.118.Final\netty-transport-classes-epoll-4.1.118.Final.jar;D:\项目\XMZ-JFServer-Client\.minecraft\libraries\io\netty\netty-transport-native-unix-common\4.1.118.Final\netty-transport-native-unix-common-4.1.118.Final.jar;D:\项目\XMZ-JFServer-Client\.minecraft\libraries\io\netty\netty-transport\4.1.118.Final\netty-transport-4.1.118.Final.jar;D:\项目\XMZ-JFServer-Client\.minecraft\libraries\it\unimi\dsi\fastutil\8.5.15\fastutil-8.5.15.jar;D:\项目\XMZ-JFServer-Client\.minecraft\libraries\net\java\dev\jna\jna-platform\5.15.0\jna-platform-5.15.0.jar;D:\项目\XMZ-JFServer-Client\.minecraft\libraries\net\java\dev\jna\jna\5.15.0\jna-5.15.0.jar;D:\项目\XMZ-JFServer-Client\.minecraft\libraries\net\minidev\accessors-smart\2.5.1\accessors-smart-2.5.1.jar;D:\项目\XMZ-JFServer-Client\.minecraft\libraries\net\minidev\json-smart\2.5.1\json-smart-2.5.1.jar;D:\项目\XMZ-JFServer-Client\.minecraft\libraries\net\sf\jopt-simple\jopt-simple\5.0.4\jopt-simple-5.0.4.jar;D:\项目\XMZ-JFServer-Client\.minecraft\libraries\org\apache\commons\commons-compress\1.27.1\commons-compress-1.27.1.jar;D:\项目\XMZ-JFServer-Client\.minecraft\libraries\org\apache\commons\commons-lang3\3.17.0\commons-lang3-3.17.0.jar;D:\项目\XMZ-JFServer-Client\.minecraft\libraries\org\apache\httpcomponents\httpclient\4.5.14\httpclient-4.5.14.jar;D:\项目\XMZ-JFServer-Client\.minecraft\libraries\org\apache\httpcomponents\httpcore\4.4.16\httpcore-4.4.16.jar;D:\项目\XMZ-JFServer-Client\.minecraft\libraries\org\apache\logging\log4j\log4j-api\2.24.1\log4j-api-2.24.1.jar;D:\项目\XMZ-JFServer-Client\.minecraft\libraries\org\apache\logging\log4j\log4j-core\2.24.1\log4j-core-2.24.1.jar;D:\项目\XMZ-JFServer-Client\.minecraft\libraries\org\apache\logging\log4j\log4j-slf4j2-impl\2.24.1\log4j-slf4j2-impl-2.24.1.jar;D:\项目\XMZ-JFServer-Client\.minecraft\libraries\org\jcraft\jorbis\0.0.17\jorbis-0.0.17.jar;D:\项目\XMZ-JFServer-Client\.minecraft\libraries\org\joml\joml\1.10.8\joml-1.10.8.jar;D:\项目\XMZ-JFServer-Client\.minecraft\libraries\org\lwjgl\lwjgl-freetype\3.3.3\lwjgl-freetype-3.3.3.jar;D:\项目\XMZ-JFServer-Client\.minecraft\libraries\org\lwjgl\lwjgl-freetype\3.3.3\lwjgl-freetype-3.3.3-natives-windows.jar;D:\项目\XMZ-JFServer-Client\.minecraft\libraries\org\lwjgl\lwjgl-freetype\3.3.3\lwjgl-freetype-3.3.3-natives-windows-arm64.jar;D:\项目\XMZ-JFServer-Client\.minecraft\libraries\org\lwjgl\lwjgl-freetype\3.3.3\lwjgl-freetype-3.3.3-natives-windows-x86.jar;D:\项目\XMZ-JFServer-Client\.minecraft\libraries\org\lwjgl\lwjgl-glfw\3.3.3\lwjgl-glfw-3.3.3.jar;D:\项目\XMZ-JFServer-Client\.minecraft\libraries\org\lwjgl\lwjgl-glfw\3.3.3\lwjgl-glfw-3.3.3-natives-windows.jar;D:\项目\XMZ-JFServer-Client\.minecraft\libraries\org\lwjgl\lwjgl-glfw\3.3.3\lwjgl-glfw-3.3.3-natives-windows-arm64.jar;D:\项目\XMZ-JFServer-Client\.minecraft\libraries\org\lwjgl\lwjgl-glfw\3.3.3\lwjgl-glfw-3.3.3-natives-windows-x86.jar;D:\项目\XMZ-JFServer-Client\.minecraft\libraries\org\lwjgl\lwjgl-jemalloc\3.3.3\lwjgl-jemalloc-3.3.3.jar;D:\项目\XMZ-JFServer-Client\.minecraft\libraries\org\lwjgl\lwjgl-jemalloc\3.3.3\lwjgl-jemalloc-3.3.3-natives-windows.jar;D:\项目\XMZ-JFServer-Client\.minecraft\libraries\org\lwjgl\lwjgl-jemalloc\3.3.3\lwjgl-jemalloc-3.3.3-natives-windows-arm64.jar;D:\项目\XMZ-JFServer-Client\.minecraft\libraries\org\lwjgl\lwjgl-jemalloc\3.3.3\lwjgl-jemalloc-3.3.3-natives-windows-x86.jar;D:\项目\XMZ-JFServer-Client\.minecraft\libraries\org\lwjgl\lwjgl-openal\3.3.3\lwjgl-openal-3.3.3.jar;D:\项目\XMZ-JFServer-Client\.minecraft\libraries\org\lwjgl\lwjgl-openal\3.3.3\lwjgl-openal-3.3.3-natives-windows.jar;D:\项目\XMZ-JFServer-Client\.minecraft\libraries\org\lwjgl\lwjgl-openal\3.3.3\lwjgl-openal-3.3.3-natives-windows-arm64.jar;D:\项目\XMZ-JFServer-Client\.minecraft\libraries\org\lwjgl\lwjgl-openal\3.3.3\lwjgl-openal-3.3.3-natives-windows-x86.jar;D:\项目\XMZ-JFServer-Client\.minecraft\libraries\org\lwjgl\lwjgl-opengl\3.3.3\lwjgl-opengl-3.3.3.jar;D:\项目\XMZ-JFServer-Client\.minecraft\libraries\org\lwjgl\lwjgl-opengl\3.3.3\lwjgl-opengl-3.3.3-natives-windows.jar;D:\项目\XMZ-JFServer-Client\.minecraft\libraries\org\lwjgl\lwjgl-opengl\3.3.3\lwjgl-opengl-3.3.3-natives-windows-arm64.jar;D:\项目\XMZ-JFServer-Client\.minecraft\libraries\org\lwjgl\lwjgl-opengl\3.3.3\lwjgl-opengl-3.3.3-natives-windows-x86.jar;D:\项目\XMZ-JFServer-Client\.minecraft\libraries\org\lwjgl\lwjgl-stb\3.3.3\lwjgl-stb-3.3.3.jar;D:\项目\XMZ-JFServer-Client\.minecraft\libraries\org\lwjgl\lwjgl-stb\3.3.3\lwjgl-stb-3.3.3-natives-windows.jar;D:\项目\XMZ-JFServer-Client\.minecraft\libraries\org\lwjgl\lwjgl-stb\3.3.3\lwjgl-stb-3.3.3-natives-windows-arm64.jar;D:\项目\XMZ-JFServer-Client\.minecraft\libraries\org\lwjgl\lwjgl-stb\3.3.3\lwjgl-stb-3.3.3-natives-windows-x86.jar;D:\项目\XMZ-JFServer-Client\.minecraft\libraries\org\lwjgl\lwjgl-tinyfd\3.3.3\lwjgl-tinyfd-3.3.3.jar;D:\项目\XMZ-JFServer-Client\.minecraft\libraries\org\lwjgl\lwjgl-tinyfd\3.3.3\lwjgl-tinyfd-3.3.3-natives-windows.jar;D:\项目\XMZ-JFServer-Client\.minecraft\libraries\org\lwjgl\lwjgl-tinyfd\3.3.3\lwjgl-tinyfd-3.3.3-natives-windows-arm64.jar;D:\项目\XMZ-JFServer-Client\.minecraft\libraries\org\lwjgl\lwjgl-tinyfd\3.3.3\lwjgl-tinyfd-3.3.3-natives-windows-x86.jar;D:\项目\XMZ-JFServer-Client\.minecraft\libraries\org\lwjgl\lwjgl\3.3.3\lwjgl-3.3.3.jar;D:\项目\XMZ-JFServer-Client\.minecraft\libraries\org\lwjgl\lwjgl\3.3.3\lwjgl-3.3.3-natives-windows.jar;D:\项目\XMZ-JFServer-Client\.minecraft\libraries\org\lwjgl\lwjgl\3.3.3\lwjgl-3.3.3-natives-windows-arm64.jar;D:\项目\XMZ-JFServer-Client\.minecraft\libraries\org\lwjgl\lwjgl\3.3.3\lwjgl-3.3.3-natives-windows-x86.jar;D:\项目\XMZ-JFServer-Client\.minecraft\libraries\org\lz4\lz4-java\1.8.0\lz4-java-1.8.0.jar;D:\项目\XMZ-JFServer-Client\.minecraft\libraries\org\slf4j\slf4j-api\2.0.16\slf4j-api-2.0.16.jar;D:\项目\XMZ-JFServer-Client\.minecraft\versions\季落秋风客户端-v3.0.0\季落秋风客户端-v3.0.0.jar net.fabricmc.loader.impl.launch.knot.KnotClient --username FengMu_233 --version 季落秋风客户端-v3.0.0 --gameDir D:\项目\XMZ-JFServer-Client\.minecraft --assetsDir D:\项目\XMZ-JFServer-Client\.minecraft\assets --assetIndex 26 --uuid 5feac7f36b2340968e54ff9b24df6f8e --accessToken <access token> --clientId ${clientid} --xuid ${auth_xuid} --userType msa --versionType "HMCL 3.8.2" --width 854 --height 480
+[14:09:37] [@.task.AsyncTaskExecutor.lambda$executeNormalTask$29/TRACE] Task finished: org.jackhuang.hmcl.game.LauncherHelper.lambda$launch0$10(LauncherHelper.java:207)
+[14:09:37] [@.task.AsyncTaskExecutor.lambda$executeNormalTask$29/TRACE] Task finished: org.jackhuang.hmcl.game.LauncherHelper$$Lambda/0x0000021ba757a228@10799193
+[14:09:37] [@.task.AsyncTaskExecutor.lambda$executeNormalTask$29/TRACE] Task finished: org.jackhuang.hmcl.game.LauncherHelper.lambda$launch0$15(LauncherHelper.java:214)
+[14:09:59] [@.task.AsyncTaskExecutor.lambda$executeNormalTask$29/TRACE] Task finished: 请耐心等待
+[14:09:59] [@.task.AsyncTaskExecutor.lambda$executeNormalTask$29/TRACE] Task finished: org.jackhuang.hmcl.task.Task$StageTask
+[14:09:59] [@.task.AsyncTaskExecutor.lambda$executeNormalTask$29/TRACE] Task finished: org.jackhuang.hmcl.game.LauncherHelper$$Lambda/0x0000021ba7561958@e897d9a
+[14:09:59] [@.task.AsyncTaskExecutor.lambda$executeNormalTask$29/TRACE] Task finished: org.jackhuang.hmcl.task.Task$StagesHintTask
+[14:09:59] [@.ui.construct.JFXDialogPane.pop/INFO] JFXDialogPane@2cd389e [], removed: true, object: TaskExecutorDialogPane@741d6751
+[14:11:46] [@.event.EventBus.fireEvent/INFO] ProcessStoppedEvent [source=org.jackhuang.hmcl.launch.ExitWaiter@7d243426] gets fired
