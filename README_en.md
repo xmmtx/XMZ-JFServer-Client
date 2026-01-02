@@ -36,6 +36,12 @@ Firstly, running Minecraft: Java Edition requires installing Java. This modpack 
 > [!TIP]
 > The following naming method is only applicable to versions `v3.0.0` and above.
 
+#### Use auto update package (MOST RECOMMENDED)
+1. Go to the release to download, the file suffix is `Auto`
+2. Decompress in the appropriate path
+3. Double clicking the `HMCL-version.exe` file will automatically install the modpack
+4. Login to game account
+5. Start the game
 #### Use regular package (RECOMMENDED)
 1. Go to the release to download, the file suffix is `Regular`
 2. Decompress in the appropriate path

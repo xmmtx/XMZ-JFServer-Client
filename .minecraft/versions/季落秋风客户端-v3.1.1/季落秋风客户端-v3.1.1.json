@@ -1,5 +1,5 @@
 {
-  "id": "季落秋风客户端-v3.1.0",
+  "id": "季落秋风客户端-v3.1.1",
   "arguments": {
     "game": [
       "--username",
@@ -162,7 +162,6 @@
     ]
   },
   "mainClass": "net.fabricmc.loader.impl.launch.knot.KnotClient",
-  "jar": "季落秋风客户端-v3.1.0",
   "assetIndex": {
     "totalSize": 436503481,
     "id": "26",
@@ -1874,6 +1873,16 @@
     }
   ],
   "downloads": {
+    "client_mappings": {
+      "url": "https://piston-data.mojang.com/v1/objects/bdeb624c3aefba11d9d40f34bc96176350b549b6/client.txt",
+      "sha1": "bdeb624c3aefba11d9d40f34bc96176350b549b6",
+      "size": 10989738
+    },
+    "server": {
+      "url": "https://piston-data.mojang.com/v1/objects/6bce4ef400e4efaa63a13d5e6f6b500be969ef81/server.jar",
+      "sha1": "6bce4ef400e4efaa63a13d5e6f6b500be969ef81",
+      "size": 57555044
+    },
     "client": {
       "url": "https://piston-data.mojang.com/v1/objects/a19d9badbea944a4369fd0059e53bf7286597576/client.jar",
       "sha1": "a19d9badbea944a4369fd0059e53bf7286597576",
@@ -1883,16 +1892,6 @@
       "url": "https://piston-data.mojang.com/v1/objects/eb1e1eb47cb740012fc82eacc394859463684132/server.txt",
       "sha1": "eb1e1eb47cb740012fc82eacc394859463684132",
       "size": 8186232
-    },
-    "server": {
-      "url": "https://piston-data.mojang.com/v1/objects/6bce4ef400e4efaa63a13d5e6f6b500be969ef81/server.jar",
-      "sha1": "6bce4ef400e4efaa63a13d5e6f6b500be969ef81",
-      "size": 57555044
-    },
-    "client_mappings": {
-      "url": "https://piston-data.mojang.com/v1/objects/bdeb624c3aefba11d9d40f34bc96176350b549b6/client.txt",
-      "sha1": "bdeb624c3aefba11d9d40f34bc96176350b549b6",
-      "size": 10989738
     }
   },
   "logging": {
@@ -3770,25 +3769,25 @@
         }
       ],
       "downloads": {
+        "client_mappings": {
+          "url": "https://piston-data.mojang.com/v1/objects/bdeb624c3aefba11d9d40f34bc96176350b549b6/client.txt",
+          "sha1": "bdeb624c3aefba11d9d40f34bc96176350b549b6",
+          "size": 10989738
+        },
         "client": {
           "url": "https://piston-data.mojang.com/v1/objects/a19d9badbea944a4369fd0059e53bf7286597576/client.jar",
           "sha1": "a19d9badbea944a4369fd0059e53bf7286597576",
           "size": 29525242
-        },
-        "server_mappings": {
-          "url": "https://piston-data.mojang.com/v1/objects/eb1e1eb47cb740012fc82eacc394859463684132/server.txt",
-          "sha1": "eb1e1eb47cb740012fc82eacc394859463684132",
-          "size": 8186232
         },
         "server": {
           "url": "https://piston-data.mojang.com/v1/objects/6bce4ef400e4efaa63a13d5e6f6b500be969ef81/server.jar",
           "sha1": "6bce4ef400e4efaa63a13d5e6f6b500be969ef81",
           "size": 57555044
         },
-        "client_mappings": {
-          "url": "https://piston-data.mojang.com/v1/objects/bdeb624c3aefba11d9d40f34bc96176350b549b6/client.txt",
-          "sha1": "bdeb624c3aefba11d9d40f34bc96176350b549b6",
-          "size": 10989738
+        "server_mappings": {
+          "url": "https://piston-data.mojang.com/v1/objects/eb1e1eb47cb740012fc82eacc394859463684132/server.txt",
+          "sha1": "eb1e1eb47cb740012fc82eacc394859463684132",
+          "size": 8186232
         }
       },
       "logging": {
