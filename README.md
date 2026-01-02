@@ -13,7 +13,7 @@
   </a>
 </div>
 
-[中文](./README.md) | English
+English | [中文](./README_zh_cn.md)
 ## Introduction
 This project is the official client of Minecraft JFServer and also one of the XMZ series modpack.
 
