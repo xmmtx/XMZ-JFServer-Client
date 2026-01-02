@@ -162,6 +162,7 @@
     ]
   },
   "mainClass": "net.fabricmc.loader.impl.launch.knot.KnotClient",
+  "jar": "季落秋风客户端-v3.1.0",
   "assetIndex": {
     "totalSize": 436503481,
     "id": "26",
@@ -1873,6 +1874,11 @@
     }
   ],
   "downloads": {
+    "client": {
+      "url": "https://piston-data.mojang.com/v1/objects/a19d9badbea944a4369fd0059e53bf7286597576/client.jar",
+      "sha1": "a19d9badbea944a4369fd0059e53bf7286597576",
+      "size": 29525242
+    },
     "server_mappings": {
       "url": "https://piston-data.mojang.com/v1/objects/eb1e1eb47cb740012fc82eacc394859463684132/server.txt",
       "sha1": "eb1e1eb47cb740012fc82eacc394859463684132",
@@ -1887,11 +1893,6 @@
       "url": "https://piston-data.mojang.com/v1/objects/bdeb624c3aefba11d9d40f34bc96176350b549b6/client.txt",
       "sha1": "bdeb624c3aefba11d9d40f34bc96176350b549b6",
       "size": 10989738
-    },
-    "client": {
-      "url": "https://piston-data.mojang.com/v1/objects/a19d9badbea944a4369fd0059e53bf7286597576/client.jar",
-      "sha1": "a19d9badbea944a4369fd0059e53bf7286597576",
-      "size": 29525242
     }
   },
   "logging": {
@@ -3769,6 +3770,11 @@
         }
       ],
       "downloads": {
+        "client": {
+          "url": "https://piston-data.mojang.com/v1/objects/a19d9badbea944a4369fd0059e53bf7286597576/client.jar",
+          "sha1": "a19d9badbea944a4369fd0059e53bf7286597576",
+          "size": 29525242
+        },
         "server_mappings": {
           "url": "https://piston-data.mojang.com/v1/objects/eb1e1eb47cb740012fc82eacc394859463684132/server.txt",
           "sha1": "eb1e1eb47cb740012fc82eacc394859463684132",
@@ -3783,11 +3789,6 @@
           "url": "https://piston-data.mojang.com/v1/objects/bdeb624c3aefba11d9d40f34bc96176350b549b6/client.txt",
           "sha1": "bdeb624c3aefba11d9d40f34bc96176350b549b6",
           "size": 10989738
-        },
-        "client": {
-          "url": "https://piston-data.mojang.com/v1/objects/a19d9badbea944a4369fd0059e53bf7286597576/client.jar",
-          "sha1": "a19d9badbea944a4369fd0059e53bf7286597576",
-          "size": 29525242
         }
       },
       "logging": {

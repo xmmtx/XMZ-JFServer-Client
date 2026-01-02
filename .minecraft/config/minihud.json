@@ -56,6 +56,7 @@
     "infoZombieConversion": 53,
     "infoHorseSpeed": 54,
     "infoHorseJump": 55,
+    "infoHorseMaxHealth": 56,
     "infoPandaGene": 56,
     "infoDolphinTreasure": 57,
     "infoEntityVariant": 58,
@@ -164,6 +165,7 @@
     "spawnRealRedstoneOverlayEnabled": false,
     "speedUnits": "mps",
     "structuresRenderThrough": false,
+    "structuresRenderOutlines": false,
     "useCustomizedCoordinateFormat": true,
     "useFontShadow": false,
     "useTextBackground": true,
@@ -300,6 +302,7 @@
     "infoZombieConversion": false,
     "infoHorseSpeed": false,
     "infoHorseJump": false,
+    "infoHorseMaxHealth": false,
     "infoPandaGene": false,
     "infoDolphinTreasure": false,
     "infoEntityVariant": false,
@@ -472,6 +475,9 @@
       "keys": ""
     },
     "infoHorseJump": {
+      "keys": ""
+    },
+    "infoHorseMaxHealth": {
       "keys": ""
     },
     "infoPandaGene": {
