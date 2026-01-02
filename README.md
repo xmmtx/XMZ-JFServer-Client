@@ -1,7 +1,7 @@
 <div align="center">
   <a href="https://www.xm233.cn/JFServer"><img width="144px" alt="logo" src="./logo.png"/></a>
   <h1 align="center">XMZ JFServer Client</h1>
-  <p>季落秋风服务器官方客户端</p>
+  <p>JFServer Official Client</p>
 </div>
 
 <div align="center">
@@ -13,56 +13,56 @@
   </a>
 </div>
 
-中文 | [English](./README_en.md)
-## 简介
-本项目是Minecraft季落秋风服务器官方客户端，也是XMZ系列整合包之一。
+[中文](./README.md) | English
+## Introduction
+This project is the official client of Minecraft JFServer and also one of the XMZ series modpack.
 
-## Mod列表
-查看完整列表：https://github.com/xmmtx/XMZ-JFServer-Client/tree/main/.minecraft/mods
-#### 主要MOD
-1. **3D皮肤层** - 作者: tr7zw - [MC百科](https://www.mcmod.cn/class/4618.html) - 许可证: tr7zw
-2. **REI物品管理器** - 作者: shedaniel - [MC百科](https://www.mcmod.cn/class/1674.html) - 许可证: MIT
+## Mods List
+Full mods list: https://github.com/xmmtx/XMZ-JFServer-Client/tree/main/.minecraft/mods
+#### Main Mods
+1. **Skin Layers 3D** - Author: tr7zw - [MCMOD](https://www.mcmod.cn/class/4618.html) - License: tr7zw
+2. **Roughly Enough Items** - Author: shedaniel - [MCMOD](https://www.mcmod.cn/class/1674.html) - License: MIT
 3. ...
 
-> 该整合不包含Minecraft本体、Fabric、Java。
+> This modpack does not include Minecraft itself Fabric、Java.
 
-## 使用方法
-首先，运行Minecraft: Java Edition需要安装Java。该包使用 `mc1.21.8` ，建议直接安装最新Java发布版。 <br>
+## Usage
+Firstly, running Minecraft: Java Edition requires installing Java. This modpack uses `mc1.21.8`, it is recommended to install the latest Java release directly.  
 
-**Java**下载： <br>
-[甲骨文 JDK25 Windows](https://www.oracle.com/cn/java/technologies/downloads/#jdk25-windows) <br>
-[Azul JDK25 Windows](https://www.azul.com/downloads/?version=java-25&os=windows&package=jdk#zulu) <br>
+**Java** Download:  
+[Oracle JDK25 Windows](https://www.oracle.com/cn/java/technologies/downloads/#jdk25-windows)  
+[Azul JDK25 Windows](https://www.azul.com/downloads/?version=java-25&os=windows&package=jdk#zulu)  
 
 > [!TIP]
-> 以下命名方法仅适用于 `v3.0.0` 及以上版本
+> The following naming method is only applicable to versions `v3.0.0` and above.
 
-#### 使用自动更新包（特别推荐）
-1. 前往发布版下载，文件后缀为 `Auto`
-2. 在合适的路径下解压缩
-3. 双击 `HMCL-version.exe` 文件会自动安装整合包
-4. 登录游戏账号
-5. 启动游戏
-#### 使用普通包（推荐）
-1. 前往发布版下载，文件后缀为 `Regular`
-2. 在合适的路径下解压缩
-3. 双击 `HMCL-version.exe` 文件会自动安装整合包
-4. 登录游戏账号
-5. 启动游戏
-#### 使用导入包
-1. 前往发布版下载，文件后缀为 `Import`
-2. 打开Minecraft启动器，找到安装整合包
-3. 选择刚刚下载的文件
-4. 点击安装整合包
-5. 登录游戏账号
-6. 启动游戏
-#### 使用完整包
-1. 前往发布版下载，文件后缀为 `Full`
-2. 在合适的路径下解压缩
-3. 双击 `HMCL-version.exe` 或 `Plain Craft Launcher 2.exe` 文件
-4. 登录游戏账号
-5. 启动游戏
-#### 手动安装 (不推荐)
-1. 前往发布版下载，下载源码（也可直接克隆 `main`）
-2. 手动根据整合包版本安装Minecraft、Fabric
-3. 登录游戏账号
-4. 启动游戏
+#### Use auto update package (MOST RECOMMENDED)
+1. Go to the release to download, the file suffix is `Auto`
+2. Decompress in the appropriate path
+3. Double clicking the `HMCL-version.exe` file will automatically install the modpack
+4. Login to game account
+5. Start the game
+#### Use regular package (RECOMMENDED)
+1. Go to the release to download, the file suffix is `Regular`
+2. Decompress in the appropriate path
+3. Double clicking the `HMCL-version.exe` file will automatically install the modpack
+4. Login to game account
+5. Start the game
+#### Use import package
+1. Go to the release to download, the file suffix is `Import`
+2. Open the Minecraft launcher and find the installation modpack
+3. Select the file that was just downloaded
+4. Click to install the modpack
+5. Login to game account
+6. Start the game
+#### Use the full package
+1. Go to the release to download, the file suffix is `Full`
+2. Decompress in the appropriate path
+3. Double click on the file `HMCL-version.exe` or `Plain Craft Launcher 2.exe`
+4. Login to game account
+5. Start the game
+#### Manual installation (NOT RECOMMENDED)
+1. Go to the release version to download and download the source code (you can also directly clone the `main`)
+2. Manually install Minecraft and Fabric based on the modpack version
+3. Login to game account
+4. Start the game

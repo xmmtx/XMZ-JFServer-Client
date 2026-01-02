@@ -52,7 +52,7 @@ damageTiltStrength:1.0
 highContrast:false
 highContrastBlockOutline:false
 narratorHotkey:true
-resourcePacks:["vanilla","file/SodiumTranslations.zip","fabric"]
+resourcePacks:["vanilla","fabric","continuity:default","continuity:glass_pane_culling_fix","betterbeds:fancyconnectedbeds","file/SodiumTranslations.zip"]
 incompatibleResourcePacks:[]
 lastServer:192.168.3.107:25565
 lang:zh_cn
