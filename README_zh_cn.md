@@ -58,7 +58,7 @@
 #### 使用完整包
 1. 前往发布版下载，文件后缀为 `Full`
 2. 在合适的路径下解压缩
-3. 双击 `HMCL-version.exe` 或 `Plain Craft Launcher 2.exe` 文件
+3. 双击 `HMCL-version.exe` 文件
 4. 登录游戏账号
 5. 启动游戏
 #### 手动安装 (不推荐)

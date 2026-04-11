@@ -58,7 +58,7 @@ Firstly, running Minecraft: Java Edition requires installing Java. This modpack 
 #### Use the full package
 1. Go to the release to download, the file suffix is `Full`
 2. Decompress in the appropriate path
-3. Double click on the file `HMCL-version.exe` or `Plain Craft Launcher 2.exe`
+3. Double click on the file `HMCL-version.exe`
 4. Login to game account
 5. Start the game
 #### Manual installation (NOT RECOMMENDED)
