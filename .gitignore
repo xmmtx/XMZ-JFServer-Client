@@ -7,7 +7,6 @@
 # 忽略 日志文件
 .minecraft/logs/
 .minecraft/debug/
-PCL/*.txt
 
 # 忽略 会自动补充的等文件
 .minecraft/servers.dat_old
