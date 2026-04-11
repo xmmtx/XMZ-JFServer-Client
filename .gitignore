@@ -9,6 +9,7 @@
 .minecraft/debug/
 
 # 忽略 会自动补充的等文件
+.minecraft/.fabric/
 .minecraft/servers.dat_old
 .minecraft/realms_persistence.json
 .minecraft/usercache.json
