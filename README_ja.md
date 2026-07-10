@@ -13,7 +13,7 @@
   </a>
 </div>
 
-[English](./README.md) | [简体中文](./README_sc.md) | 日本語
+[English](./README.md) | [简体中文](./README_sc.md) | [繁體中文](./README_tc.md) | [Français](./README_fr.md) | 日本語
 ## 概要
 このプロジェクトはMinecraft JFServerの公式クライアントであり、XMZシリーズのModpackの一つでもあります。
 

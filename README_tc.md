@@ -13,7 +13,7 @@
   </a>
 </div>
 
-[English](./README.md) | [简体中文](./README_sc.md) | 繁體中文
+[English](./README.md) | [简体中文](./README_sc.md) | 繁體中文 | [Français](./README_fr.md) | [日本語](./README_ja.md)
 ## 簡介
 本專案是Minecraft季落秋風伺服器官方用戶端，也是XMZ系列整合包之一。
 
