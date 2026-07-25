@@ -221,7 +221,7 @@
     "dateFormatMinecraft": "MC time: (day {DAY}) {HOUR}:{MIN}:xx",
     "durationFormatType": "pretty",
     "durationFormatString": "HH:mm:ss.SSS",
-    "fontScale": 1.0,
+    "fontScale": 0.7,
     "hudStatusEffectsShift": {
       "enabled": true,
       "hotkey": {
